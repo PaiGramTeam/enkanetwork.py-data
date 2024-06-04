@@ -1,0 +1,30 @@
+name: Fetch
+
+on:
+  push:
+    branches:
+      - 'fork'
+  workflow_dispatch: ~
+
+jobs:
+  Fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install -r requirements.txt
+          cp .env.example .env
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email github-actions[bot]@users.noreply.github.com
+
+      - name: Fetch Files
+        run: |
+          python main.py
