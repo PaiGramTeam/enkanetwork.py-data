@@ -27,10 +27,10 @@ logging.basicConfig(level=logging.DEBUG)
 LOGGER = logging.getLogger(__name__)
 
 # GIT
-USERNAME = os.getenv('GITHUB_USERNAME')
-REPOSITORY = os.getenv('GITHUB_REPOSITORY')
-PROJECT_ID = os.getenv('GITHUB_PROJECT_ID')
-PROJECT_BRANCH = os.getenv('GITHUB_PROJECT_BRANCH')
+USERNAME = os.getenv('1GITHUB_USERNAME')
+REPOSITORY = os.getenv('1GITHUB_REPOSITORY')
+PROJECT_ID = os.getenv('1GITHUB_PROJECT_ID')
+PROJECT_BRANCH = os.getenv('PROJECT_BRANCH')
 
 # Check is DEV_MODE
 DEVMODE = sys.argv[1] == "dev" if len(sys.argv) > 1 else False
@@ -51,7 +51,8 @@ ENVKEY = [
     "COSTUME",
     "PROPS_MAP",
     "ARTIFACT_PROPS_MAIN",
-    "ARTIFACT_PROPS_SUB"
+    "ARTIFACT_PROPS_SUB",
+    "Profile_Picture",
 ]
 SKIP_HASH = ["artifact_props"]
 
@@ -263,6 +264,12 @@ async def main():
         EXPORT_DATA["fight_props"][fight_prop["textMapId"]] = {
             "nameTextMapHash": fight_prop["textMapContentTextMapHash"],
         }
+
+    # Load Profile Picture
+    EXPORT_DATA["pfps"] = {}
+    for picture in DATA["ProfilePictureExcelConfigData"]:
+        picture_id = str(picture["id"])
+        EXPORT_DATA["pfps"][picture_id] = picture
 
     # Prepare data (Create language)
     for skillDepot in DATA["AvatarSkillDepotExcelConfigData"]:
