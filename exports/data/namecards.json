@@ -1898,5 +1898,105 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210195": {
+        "nameTextMapHash": 89079668,
+        "icon": "UI_NameCardIcon_Arlecchino",
+        "picPath": [
+            "UI_NameCardPic_Arlecchino_Alpha",
+            "UI_NameCardPic_Arlecchino_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210196": {
+        "nameTextMapHash": 3853344316,
+        "icon": "UI_NameCardIcon_Deep",
+        "picPath": [
+            "UI_NameCardPic_Deep_Alpha",
+            "UI_NameCardPic_Deep_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210197": {
+        "nameTextMapHash": 1686874332,
+        "icon": "UI_NameCardIcon_Tzz9",
+        "picPath": [
+            "UI_NameCardPic_Tzz9_Alpha",
+            "UI_NameCardPic_Tzz9_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210198": {
+        "nameTextMapHash": 328422540,
+        "icon": "UI_NameCardIcon_WishingPond",
+        "picPath": [
+            "UI_NameCardPic_WishingPond_Alpha",
+            "UI_NameCardPic_WishingPond_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210199": {
+        "nameTextMapHash": 1744889084,
+        "icon": "UI_NameCardIcon_GreatFestivalV2",
+        "picPath": [
+            "UI_NameCardPic_GreatFestivalV2_Alpha",
+            "UI_NameCardPic_GreatFestivalV2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210200": {
+        "nameTextMapHash": 1434145132,
+        "icon": "UI_NameCardIcon_Clorinde",
+        "picPath": [
+            "UI_NameCardPic_Clorinde_Alpha",
+            "UI_NameCardPic_Clorinde_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210201": {
+        "nameTextMapHash": 2519862828,
+        "icon": "UI_NameCardIcon_Sigewinne",
+        "picPath": [
+            "UI_NameCardPic_Sigewinne_Alpha",
+            "UI_NameCardPic_Sigewinne_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210202": {
+        "nameTextMapHash": 3809875516,
+        "icon": "UI_NameCardIcon_Sethos",
+        "picPath": [
+            "UI_NameCardPic_Sethos_Alpha",
+            "UI_NameCardPic_Sethos_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210203": {
+        "nameTextMapHash": 3545893804,
+        "icon": "UI_NameCardIcon_RoleCombat",
+        "picPath": [
+            "UI_NameCardPic_RoleCombat_Alpha",
+            "UI_NameCardPic_RoleCombat_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210204": {
+        "nameTextMapHash": 3965647636,
+        "icon": "UI_NameCardIcon_Bp33",
+        "picPath": [
+            "UI_NameCardPic_Bp33_Alpha",
+            "UI_NameCardPic_Bp33_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

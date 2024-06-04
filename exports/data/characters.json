@@ -1862,5 +1862,85 @@
             945,
             946
         ]
+    },
+    "10000095": {
+        "nameTextMapHash": 781488962,
+        "iconName": "UI_AvatarIcon_Sigewinne",
+        "sideIconName": "UI_AvatarIcon_Side_Sigewinne",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            10951,
+            10952,
+            10955
+        ],
+        "talents": [
+            951,
+            952,
+            953,
+            954,
+            955,
+            956
+        ]
+    },
+    "10000096": {
+        "nameTextMapHash": 167199474,
+        "iconName": "UI_AvatarIcon_Arlecchino",
+        "sideIconName": "UI_AvatarIcon_Side_Arlecchino",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10961,
+            10962,
+            10965
+        ],
+        "talents": [
+            961,
+            962,
+            963,
+            964,
+            965,
+            966
+        ]
+    },
+    "10000097": {
+        "nameTextMapHash": 1431322346,
+        "iconName": "UI_AvatarIcon_Sethos",
+        "sideIconName": "UI_AvatarIcon_Side_Sethos",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            10971,
+            10972,
+            10975
+        ],
+        "talents": [
+            971,
+            972,
+            973,
+            974,
+            975,
+            976
+        ]
+    },
+    "10000098": {
+        "nameTextMapHash": 2745369298,
+        "iconName": "UI_AvatarIcon_Clorinde",
+        "sideIconName": "UI_AvatarIcon_Side_Clorinde",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            10981,
+            10982,
+            10985
+        ],
+        "talents": [
+            981,
+            982,
+            983,
+            984,
+            985,
+            986
+        ]
     }
 }

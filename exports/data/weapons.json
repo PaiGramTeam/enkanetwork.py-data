@@ -299,6 +299,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_Needle_Awaken",
         "rankLevel": 5
     },
+    "11515": {
+        "nameTextMapHash": 1009471939,
+        "icon": "UI_EquipIcon_Sword_Estoc",
+        "awakenIcon": "UI_EquipIcon_Sword_Estoc_Awaken",
+        "rankLevel": 5
+    },
     "12101": {
         "nameTextMapHash": 2666951267,
         "icon": "UI_EquipIcon_Claymore_Aniki",
@@ -737,6 +743,12 @@
         "awakenIcon": "UI_EquipIcon_Pole_Deshret_Awaken",
         "rankLevel": 5
     },
+    "13512": {
+        "nameTextMapHash": 2944936683,
+        "icon": "UI_EquipIcon_Pole_BloodMoon",
+        "awakenIcon": "UI_EquipIcon_Pole_BloodMoon_Awaken",
+        "rankLevel": 5
+    },
     "14101": {
         "nameTextMapHash": 3584825427,
         "icon": "UI_EquipIcon_Catalyst_Apprentice",
@@ -1157,6 +1169,12 @@
         "awakenIcon": "UI_EquipIcon_Bow_Vorpal_Awaken",
         "rankLevel": 4
     },
+    "15426": {
+        "nameTextMapHash": 4038676067,
+        "icon": "UI_EquipIcon_Bow_Ultimatum",
+        "awakenIcon": "UI_EquipIcon_Bow_Ultimatum_Awaken",
+        "rankLevel": 4
+    },
     "15427": {
         "nameTextMapHash": 1055195035,
         "icon": "UI_EquipIcon_Bow_Mechanic",
@@ -1227,6 +1245,12 @@
         "nameTextMapHash": 2988480723,
         "icon": "UI_EquipIcon_Bow_Pledge",
         "awakenIcon": "UI_EquipIcon_Bow_Pledge_Awaken",
+        "rankLevel": 5
+    },
+    "15513": {
+        "nameTextMapHash": 1257396043,
+        "icon": "UI_EquipIcon_Bow_Arcdange",
+        "awakenIcon": "UI_EquipIcon_Bow_Arcdange_Awaken",
         "rankLevel": 5
     },
     "20001": {
