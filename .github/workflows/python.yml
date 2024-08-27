@@ -27,4 +27,5 @@ jobs:
 
       - name: Fetch Files
         run: |
+          bash talent/get.sh
           python main.py
