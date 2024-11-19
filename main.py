@@ -73,7 +73,7 @@ async def create_lang(data: dict, filename: str = "", has_key_name_hash: bool = 
                     DATA[hashKey] = {}
                 DATA[hashKey][lang] = LANGS[lang][hash_map]
             else:
-                if hash_map not in DATA:
+                if hashKey not in DATA:
                     DATA[hashKey] = {}
                 DATA[hashKey][lang] = ""
 
