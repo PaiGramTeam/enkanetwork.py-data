@@ -67,7 +67,7 @@ async def create_lang(data: dict, filename: str = "", has_key_name_hash: bool = 
         hash_map = str(data[key]["nameTextMapHash"])
         hashKey = key if not has_key_name_hash else hash_map
         
-        for lang in LANGS:
+        for lang in sorted(LANGS.keys()):
             if hash_map in LANGS[lang]:
                 if hashKey not in DATA:
                     DATA[hashKey] = {}
@@ -135,8 +135,11 @@ async def main():
         if lang.endswith(".json"):
             with open(os.path.join("raw", "langs", lang), "r", encoding="utf-8") as f:
                 _lang = lang.split(".")[0].replace("TextMap", "")
-                LOGGER.debug(f"Loading lang ({_lang})...")
-                LANGS[_lang] = json.loads(f.read())
+                _lang_real = _lang.split("_")[0]
+                LOGGER.debug(f"Loading lang ({_lang}) {_lang_real}...")
+                _temp_dict = LANGS.get(_lang_real, {})
+                _temp_dict.update(json.loads(f.read()))
+                LANGS[_lang_real] = _temp_dict
 
     # Load data 
     for data in os.listdir(os.path.join("raw", "data")):
