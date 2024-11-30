@@ -2043,6 +2043,46 @@
             1036
         ]
     },
+    "10000104": {
+        "nameTextMapHash": 3746229466,
+        "iconName": "UI_AvatarIcon_Chasca",
+        "sideIconName": "UI_AvatarIcon_Side_Chasca",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11041,
+            11042,
+            11045
+        ],
+        "talents": [
+            1041,
+            1042,
+            1043,
+            1044,
+            1045,
+            1046
+        ]
+    },
+    "10000105": {
+        "nameTextMapHash": 1198350762,
+        "iconName": "UI_AvatarIcon_Olorun",
+        "sideIconName": "UI_AvatarIcon_Side_Olorun",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            30501,
+            30502,
+            30505
+        ],
+        "talents": [
+            1051,
+            1052,
+            1053,
+            1054,
+            1055,
+            1056
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",

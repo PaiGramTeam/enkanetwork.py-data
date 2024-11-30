@@ -1536,5 +1536,37 @@
             "extra_level": 3,
             "proud_skill_group_id": 10339
         }
+    },
+    "10000104": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 10432
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 10439
+        }
+    },
+    "10000105": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 10539
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 10532
+        }
     }
 }

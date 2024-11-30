@@ -2139,6 +2139,56 @@
         "skillIcon": "Skill_S_Xilonen_01",
         "proudSkillGroupId": ""
     },
+    "11041": {
+        "nameTextMapHash": 894584245,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 10431
+    },
+    "11042": {
+        "nameTextMapHash": 3865567869,
+        "skillIcon": "Skill_S_Chasca_01",
+        "proudSkillGroupId": 10432
+    },
+    "11043": {
+        "nameTextMapHash": 1268888861,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "11044": {
+        "nameTextMapHash": 1324968837,
+        "skillIcon": "Skill_S_Chasca_02",
+        "proudSkillGroupId": ""
+    },
+    "11045": {
+        "nameTextMapHash": 2189434621,
+        "skillIcon": "Skill_E_Chasca_01",
+        "proudSkillGroupId": 10439
+    },
+    "11046": {
+        "nameTextMapHash": 941383253,
+        "skillIcon": "Skill_S_Chasca_03",
+        "proudSkillGroupId": ""
+    },
+    "11047": {
+        "nameTextMapHash": 2437002693,
+        "skillIcon": "Skill_E_Chasca_01",
+        "proudSkillGroupId": ""
+    },
+    "11048": {
+        "nameTextMapHash": 2043776509,
+        "skillIcon": "Skill_S_Chasca_01",
+        "proudSkillGroupId": ""
+    },
+    "11049": {
+        "nameTextMapHash": 1428043941,
+        "skillIcon": "Skill_S_Chasca_05",
+        "proudSkillGroupId": ""
+    },
+    "11040": {
+        "nameTextMapHash": 1436528045,
+        "skillIcon": "Skill_S_Chasca_04",
+        "proudSkillGroupId": ""
+    },
     "30000": {
         "nameTextMapHash": 3235714597,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -2212,6 +2262,36 @@
     "30206": {
         "nameTextMapHash": 3468188821,
         "skillIcon": "Skill_S_Momoka_02",
+        "proudSkillGroupId": ""
+    },
+    "30501": {
+        "nameTextMapHash": 818975741,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 10531
+    },
+    "30502": {
+        "nameTextMapHash": 4286406381,
+        "skillIcon": "Skill_S_Olorun_01",
+        "proudSkillGroupId": 10532
+    },
+    "30503": {
+        "nameTextMapHash": 1798091005,
+        "skillIcon": "Skill_E_Olorun_Create",
+        "proudSkillGroupId": ""
+    },
+    "30504": {
+        "nameTextMapHash": 4204895213,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "30505": {
+        "nameTextMapHash": 1558714933,
+        "skillIcon": "Skill_E_Olorun_01",
+        "proudSkillGroupId": 10539
+    },
+    "30506": {
+        "nameTextMapHash": 2526862789,
+        "skillIcon": "Skill_E_Olorun_03",
         "proudSkillGroupId": ""
     },
     "20001": {
@@ -2497,6 +2577,11 @@
     "20090": {
         "nameTextMapHash": 1916995925,
         "skillIcon": "Btn_FairyBook_OrigamiAlpaca",
+        "proudSkillGroupId": ""
+    },
+    "20092": {
+        "nameTextMapHash": 466607949,
+        "skillIcon": "UI_Icon_Skill_ColoringSpirit",
         "proudSkillGroupId": ""
     },
     "20093": {
@@ -2797,6 +2882,11 @@
     "20541": {
         "nameTextMapHash": 3465751389,
         "skillIcon": "Btn_HideAndSeekV4_Seeker_A_01",
+        "proudSkillGroupId": ""
+    },
+    "20569": {
+        "nameTextMapHash": 2957024869,
+        "skillIcon": "UI_Icon_Skill_ColoringSpirit",
         "proudSkillGroupId": ""
     },
     "20580": {
@@ -3542,6 +3632,16 @@
     "5103010": {
         "nameTextMapHash": 3095315005,
         "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": ""
+    },
+    "5104010": {
+        "nameTextMapHash": 691938477,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": ""
+    },
+    "5105010": {
+        "nameTextMapHash": 2644426605,
+        "skillIcon": "Skill_A_02",
         "proudSkillGroupId": ""
     }
 }

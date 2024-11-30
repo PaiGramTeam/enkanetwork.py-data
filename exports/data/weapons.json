@@ -227,6 +227,12 @@
         "awakenIcon": "UI_EquipIcon_Sword_Isikhulu_Awaken",
         "rankLevel": 4
     },
+    "11432": {
+        "nameTextMapHash": 590019915,
+        "icon": "UI_EquipIcon_Sword_SacrificialNgombe",
+        "awakenIcon": "UI_EquipIcon_Sword_SacrificialNgombe_Awaken",
+        "rankLevel": 4
+    },
     "11501": {
         "nameTextMapHash": 902264035,
         "icon": "UI_EquipIcon_Sword_Falcon",
@@ -977,6 +983,12 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_ConchSprayer_Awaken",
         "rankLevel": 4
     },
+    "14430": {
+        "nameTextMapHash": 1445287979,
+        "icon": "UI_EquipIcon_Catalyst_Umpakati",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Umpakati_Awaken",
+        "rankLevel": 4
+    },
     "14431": {
         "nameTextMapHash": 3092853059,
         "icon": "UI_EquipIcon_Catalyst_Isikhulu",
@@ -1253,6 +1265,12 @@
         "awakenIcon": "UI_EquipIcon_Bow_Mechanic_Awaken",
         "rankLevel": 4
     },
+    "15430": {
+        "nameTextMapHash": 4019353779,
+        "icon": "UI_EquipIcon_Bow_Umpakati",
+        "awakenIcon": "UI_EquipIcon_Bow_Umpakati_Awaken",
+        "rankLevel": 4
+    },
     "15431": {
         "nameTextMapHash": 565052971,
         "icon": "UI_EquipIcon_Bow_Isikhulu",
@@ -1329,6 +1347,12 @@
         "nameTextMapHash": 1257396043,
         "icon": "UI_EquipIcon_Bow_Arcdange",
         "awakenIcon": "UI_EquipIcon_Bow_Arcdange_Awaken",
+        "rankLevel": 5
+    },
+    "15514": {
+        "nameTextMapHash": 1363661611,
+        "icon": "UI_EquipIcon_Bow_Qoyllorsnova",
+        "awakenIcon": "UI_EquipIcon_Bow_Qoyllorsnova_Awaken",
         "rankLevel": 5
     },
     "20001": {
