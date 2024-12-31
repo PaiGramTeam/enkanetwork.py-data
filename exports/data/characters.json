@@ -55,11 +55,20 @@
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
-        "costElemType": "",
+        "costElemType": "Fire",
         "skills": [
-            100541
+            100541,
+            10097,
+            10098
         ],
-        "talents": []
+        "talents": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+        ]
     },
     "10000005-503": {
         "nameTextMapHash": 1533656818,
@@ -217,11 +226,20 @@
         "iconName": "UI_AvatarIcon_PlayerGirl",
         "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
         "qualityType": "QUALITY_ORANGE",
-        "costElemType": "",
+        "costElemType": "Fire",
         "skills": [
-            100551
+            100551,
+            10097,
+            10098
         ],
-        "talents": []
+        "talents": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+        ]
     },
     "10000007-703": {
         "nameTextMapHash": 3816664530,
@@ -2083,6 +2101,66 @@
             1056
         ]
     },
+    "10000106": {
+        "nameTextMapHash": 113398050,
+        "iconName": "UI_AvatarIcon_Mavuika",
+        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            11061,
+            11062,
+            11065
+        ],
+        "talents": [
+            1061,
+            1062,
+            1063,
+            1064,
+            1065,
+            1066
+        ]
+    },
+    "10000107": {
+        "nameTextMapHash": 1197975042,
+        "iconName": "UI_AvatarIcon_Citlali",
+        "sideIconName": "UI_AvatarIcon_Side_Citlali",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11071,
+            11072,
+            11075
+        ],
+        "talents": [
+            1071,
+            1072,
+            1073,
+            1074,
+            1075,
+            1076
+        ]
+    },
+    "10000108": {
+        "nameTextMapHash": 1888132250,
+        "iconName": "UI_AvatarIcon_Lanyan",
+        "sideIconName": "UI_AvatarIcon_Side_Lanyan",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Wind",
+        "skills": [
+            11081,
+            11082,
+            11085
+        ],
+        "talents": [
+            1081,
+            1082,
+            1083,
+            1084,
+            1085,
+            1086
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134650,
         "iconName": "UI_AvatarIcon_Mavuika",
@@ -2101,6 +2179,26 @@
             234,
             235,
             236
+        ]
+    },
+    "10000902": {
+        "nameTextMapHash": 853394138,
+        "iconName": "UI_AvatarIcon_Hutao",
+        "sideIconName": "UI_AvatarIcon_Side_Hutao",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            10461,
+            10462,
+            10463
+        ],
+        "talents": [
+            461,
+            462,
+            463,
+            464,
+            465,
+            466
         ]
     }
 }

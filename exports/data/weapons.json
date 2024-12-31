@@ -587,6 +587,12 @@
         "awakenIcon": "UI_EquipIcon_Claymore_EmeraldSword_Awaken",
         "rankLevel": 5
     },
+    "12514": {
+        "nameTextMapHash": 1876377995,
+        "icon": "UI_EquipIcon_Claymore_RadianceSword",
+        "awakenIcon": "UI_EquipIcon_Claymore_RadianceSword_Awaken",
+        "rankLevel": 5
+    },
     "13101": {
         "nameTextMapHash": 2796697027,
         "icon": "UI_EquipIcon_Pole_Gewalt",
@@ -1077,6 +1083,12 @@
         "nameTextMapHash": 1673987515,
         "icon": "UI_EquipIcon_Catalyst_MechaPufferfish",
         "awakenIcon": "UI_EquipIcon_Catalyst_MechaPufferfish_Awaken",
+        "rankLevel": 5
+    },
+    "14517": {
+        "nameTextMapHash": 2466897131,
+        "icon": "UI_EquipIcon_Catalyst_Figurines",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Figurines_Awaken",
         "rankLevel": 5
     },
     "15101": {

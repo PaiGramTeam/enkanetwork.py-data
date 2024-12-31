@@ -1665,6 +1665,23 @@
         "TR": "Dağ Kralı'nın Dişi",
         "VI": "Nanh Sơn Vương"
     },
+    "1876377995": {
+        "CHS": "焚曜千阳",
+        "CHT": "焚曜千陽",
+        "DE": "Die tausend flammenden Sonnen",
+        "EN": "A Thousand Blazing Suns",
+        "ES": "Mil Soles Abrasadores",
+        "FR": "Mille soleils brûlants",
+        "ID": "A Thousand Blazing Suns",
+        "IT": "Mille soli ardenti",
+        "JP": "千烈の日輪",
+        "KR": "타오르는 천 개의 태양",
+        "PT": "Mil Sóis Ardentes",
+        "RU": "Тысяча ослепительных солнц",
+        "TH": "A Thousand Blazing Suns",
+        "TR": "Alevli Bin Güneş",
+        "VI": "Thiên Dương Rực Lửa"
+    },
     "2796697027": {
         "CHS": "新手长枪",
         "CHT": "新手長槍",
@@ -3058,6 +3075,23 @@
         "TH": "Surf's Up",
         "TR": "Sörf Zamanı",
         "VI": "Thời Khắc Lướt Sóng"
+    },
+    "2466897131": {
+        "CHS": "祭星者之望",
+        "CHT": "祭星者之望",
+        "DE": "Wacht des Sternenopfers",
+        "EN": "Starcaller's Watch",
+        "ES": "Vigía de las Estrellas",
+        "FR": "Veillée d'appel d'étoiles",
+        "ID": "Starcaller's Watch",
+        "IT": "Veglia del Chiamastelle",
+        "JP": "祭星者の眺め",
+        "KR": "별지기의 시선",
+        "PT": "Observatório do Chamador de Estrelas",
+        "RU": "Бдение взывающего к звёздам",
+        "TH": "Starcaller's Watch",
+        "TR": "Yıldız Çağıranın Nöbeti",
+        "VI": "Ánh Nhìn Tư Tế"
     },
     "3600623979": {
         "CHS": "猎弓",

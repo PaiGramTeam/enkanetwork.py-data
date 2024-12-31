@@ -93,5 +93,15 @@
         "iconName": "UI_AvatarIcon_MomokaCostumeErrantry",
         "sideIconName": "UI_AvatarIcon_Side_MomokaCostumeErrantry",
         "nameTextMapHash": 443620306
+    },
+    "204601": {
+        "iconName": "UI_AvatarIcon_HutaoCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_HutaoCostumeWinter",
+        "nameTextMapHash": 4049779162
+    },
+    "202301": {
+        "iconName": "UI_AvatarIcon_XianglingCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_XianglingCostumeWinter",
+        "nameTextMapHash": 3584800114
     }
 }

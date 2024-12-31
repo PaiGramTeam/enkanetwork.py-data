@@ -624,22 +624,6 @@
             "proud_skill_group_id": 4539
         }
     },
-    "10000046": {
-        "3": {
-            "constellation": 3,
-            "talent_type": "AvatarSkill",
-            "talent_index": 2,
-            "extra_level": 3,
-            "proud_skill_group_id": 4632
-        },
-        "5": {
-            "constellation": 5,
-            "talent_type": "AvatarSkill",
-            "talent_index": 9,
-            "extra_level": 3,
-            "proud_skill_group_id": 4639
-        }
-    },
     "10000047": {
         "3": {
             "constellation": 3,
@@ -1567,6 +1551,70 @@
             "talent_index": 2,
             "extra_level": 3,
             "proud_skill_group_id": 10532
+        }
+    },
+    "10000107": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 10732
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 10739
+        }
+    },
+    "10000108": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 10832
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 10839
+        }
+    },
+    "10000901": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 2339
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 2332
+        }
+    },
+    "10000902": {
+        "3": {
+            "constellation": 3,
+            "talent_type": "AvatarSkill",
+            "talent_index": 2,
+            "extra_level": 3,
+            "proud_skill_group_id": 4632
+        },
+        "5": {
+            "constellation": 5,
+            "talent_type": "AvatarSkill",
+            "talent_index": 9,
+            "extra_level": 3,
+            "proud_skill_group_id": 4639
         }
     }
 }

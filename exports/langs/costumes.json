@@ -321,5 +321,39 @@
         "TH": "บูทเงามายา",
         "TR": "Çizmeli Hayalet",
         "VI": "Ảo Ảnh Đi Hia"
+    },
+    "4049779162": {
+        "CHS": "宿雪桃红",
+        "CHT": "宿雪桃紅",
+        "DE": "Schneebedeckte Kirschen",
+        "EN": "Cherries Snow-Laden",
+        "ES": "Cerezo níveo",
+        "FR": "Cerises sous neige",
+        "ID": "Cherries Snow-Laden",
+        "IT": "Ciliegie cariche di neve",
+        "JP": "残雪に咲く紅",
+        "KR": "눈을 품은 복숭아꽃",
+        "PT": "Cerejas Cobertas de Neve",
+        "RU": "Вишни под снегом",
+        "TH": "ดอกท้อแดงพราวหิมะ",
+        "TR": "Kar Kaplı Kirazlar",
+        "VI": "Tuyết Phủ Hồng Đào"
+    },
+    "3584800114": {
+        "CHS": "岁夜欢哗",
+        "CHT": "歲夜歡譁",
+        "DE": "Neujahrsjubel",
+        "EN": "New Year's Cheer",
+        "ES": "Jolgorio festivo",
+        "FR": "Gaieté du Nouvel An",
+        "ID": "New Year's Cheer",
+        "IT": "Celebrazione per l'anno nuovo",
+        "JP": "大つごもりの歓声",
+        "KR": "제야의 환호",
+        "PT": "Alegria de Ano Novo",
+        "RU": "Новогоднее веселье",
+        "TH": "รื่นเริงส่งท้ายปี",
+        "TR": "Yeni Yıl Coşkusu",
+        "VI": "Niềm Vui Xuân Về"
     }
 }
