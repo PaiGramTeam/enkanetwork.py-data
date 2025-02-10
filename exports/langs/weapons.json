@@ -2124,6 +2124,23 @@
         "TR": "Gökkuşağının İzi",
         "VI": "Vết Tích Cầu Vồng"
     },
+    "486513155": {
+        "CHS": "且住亭御咄",
+        "CHT": "且住亭御咄",
+        "DE": "Tamayuratei no Ohanashi",
+        "EN": "Tamayuratei no Ohanashi",
+        "ES": "Charla en el Pabellón",
+        "FR": "Tamayuratei no Ohanashi",
+        "ID": "Tamayuratei no Ohanashi",
+        "IT": "Tamayuratei no Ohanashi",
+        "JP": "玉響停の御噺",
+        "KR": "쉼터의 이야기꾼",
+        "PT": "Fofocas Breves do Pavilhão",
+        "RU": "Тамаюратэй но оханаси",
+        "TH": "Tamayuratei no Ohanashi",
+        "TR": "Tamayuratei no Ohanashi",
+        "VI": "Tamayuratei no Ohanashi"
+    },
     "3235324891": {
         "CHS": "护摩之杖",
         "CHT": "護摩之杖",
@@ -3092,6 +3109,23 @@
         "TH": "Starcaller's Watch",
         "TR": "Yıldız Çağıranın Nöbeti",
         "VI": "Ánh Nhìn Tư Tế"
+    },
+    "3790622667": {
+        "CHS": "寝正月初晴",
+        "CHT": "寢正月初晴",
+        "DE": "Frühjahrsschlaf",
+        "EN": "Sunny Morning Sleep-In",
+        "ES": "Hibernación Matutina de Año Nuevo",
+        "FR": "Matinée flânée sous le soleil",
+        "ID": "Sunny Morning Sleep-In",
+        "IT": "Sonnellino mattutino",
+        "JP": "寝正月の初晴",
+        "KR": "나른한 새해",
+        "PT": "Hibernação Matinal do Ano Novo",
+        "RU": "Сон солнечным утром",
+        "TH": "Sunny Morning Sleep-In",
+        "TR": "Şafak Uykusu",
+        "VI": "Hòa Giấc Trong Nắng Mai"
     },
     "3600623979": {
         "CHS": "猎弓",
