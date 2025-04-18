@@ -12,6 +12,7 @@ characters_path = exports_path / "characters.json"
 skills_path = exports_path / "skills.json"
 talents_save_path = exports_path / "talents.json"
 talents_path = Path("temp")
+talents_name_map = {"5fbfba67": ("Mizuki", ""), "f7e176d2": ("PlayerBoy_Fire", "PlayerGirl_Fire")}
 
 
 def get_character_key(icon_name: str, ele: str) -> Optional[str]:
@@ -53,6 +54,8 @@ def get_talent_key(file_name: Path) -> Tuple[str, str]:
     name = file_name.name.replace("ConfigTalent_", "").replace(".json", "")
     if "Player" in name:
         return name.replace("Player", "PlayerBoy"), name.replace("Player", "PlayerGirl")
+    if name in talents_name_map:
+         return talents_name_map[name]
     return name, ""
 
 
