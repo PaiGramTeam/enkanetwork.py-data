@@ -8,6 +8,7 @@
         "skills": [
             10024,
             10018,
+            10013,
             10019
         ],
         "talents": [
@@ -810,6 +811,7 @@
         "skills": [
             10411,
             10412,
+            10413,
             10415
         ],
         "talents": [
@@ -2090,6 +2092,7 @@
         "skills": [
             30501,
             30502,
+            30506,
             30505
         ],
         "talents": [
@@ -2130,6 +2133,7 @@
         "skills": [
             11071,
             11072,
+            11076,
             11075
         ],
         "talents": [
@@ -2179,6 +2183,46 @@
             1094,
             1095,
             1096
+        ]
+    },
+    "10000110": {
+        "nameTextMapHash": 3120492514,
+        "iconName": "UI_AvatarIcon_Iansan",
+        "sideIconName": "UI_AvatarIcon_Side_Iansan",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            11101,
+            11102,
+            11105
+        ],
+        "talents": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105,
+            1106
+        ]
+    },
+    "10000111": {
+        "nameTextMapHash": 283438874,
+        "iconName": "UI_AvatarIcon_Varesa",
+        "sideIconName": "UI_AvatarIcon_Side_Varesa",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            11111,
+            11112,
+            11115
+        ],
+        "talents": [
+            1111,
+            1112,
+            1113,
+            1114,
+            1115,
+            1116
         ]
     },
     "10000901": {
