@@ -2328,6 +2328,23 @@
         "TR": "Lumidouce Ağıdı",
         "VI": "Bi Ca Lumidouce"
     },
+    "518077587": {
+        "CHS": "香韵奏者",
+        "CHT": "香韻奏者",
+        "DE": "Sinfoniker der Düfte",
+        "EN": "Symphonist of Scents",
+        "ES": "Sinfonista de Aromas",
+        "FR": "Symphoniste des senteurs",
+        "ID": "Symphonist of Scents",
+        "IT": "Sinfonista di fragranze",
+        "JP": "香りのシンフォニスト",
+        "KR": "맛의 지휘자",
+        "PT": "Sinfonista de Aromas",
+        "RU": "Симфонист ароматов",
+        "TH": "Symphonist of Scents",
+        "TR": "Aromaların Ezgisi",
+        "VI": "Nhạc Sĩ Hương Thơm"
+    },
     "3584825427": {
         "CHS": "学徒笔记",
         "CHT": "學徒筆記",
@@ -3704,6 +3721,23 @@
         "TH": "Chain Breaker",
         "TR": "Zincirkıran",
         "VI": "Phá Xích"
+    },
+    "2846112523": {
+        "CHS": "冷寂迸音",
+        "CHT": "冷寂迸音",
+        "DE": "Tonfolge der Einsamkeit",
+        "EN": "Sequence of Solitude",
+        "ES": "Cadencia de la Soledad",
+        "FR": "Séquence de solitude",
+        "ID": "Sequence of Solitude",
+        "IT": "Progressione della solitudine",
+        "JP": "冷寂の音",
+        "KR": "침묵의 사격",
+        "PT": "Ritmo da Solidão",
+        "RU": "Каденция одиночества",
+        "TH": "Sequence of Solitude",
+        "TR": "Sessizliğin Yankısı",
+        "VI": "Thanh Âm Lạnh Lẽo"
     },
     "3933622347": {
         "CHS": "天空之翼",
