@@ -2056,6 +2056,40 @@
         "TR": "Escoffier",
         "VI": "Escoffier"
     },
+    "3542297084": {
+        "CHS": "塔利雅",
+        "CHT": "塔利雅",
+        "DE": "Dahlia",
+        "EN": "Dahlia",
+        "ES": "Dahlia",
+        "FR": "Dahlia",
+        "ID": "Dahlia",
+        "IT": "Dahlia",
+        "JP": "ダリア",
+        "KR": "달리아",
+        "PT": "Dahlia",
+        "RU": "Далия",
+        "TH": "Dahlia",
+        "TR": "Dahlia",
+        "VI": "Dahlia"
+    },
+    "62039628": {
+        "CHS": "丝柯克",
+        "CHT": "絲柯克",
+        "DE": "Skirk",
+        "EN": "Skirk",
+        "ES": "Skirk",
+        "FR": "Skirk",
+        "ID": "Skirk",
+        "IT": "Skirk",
+        "JP": "スカーク",
+        "KR": "스커크",
+        "PT": "Skirk",
+        "RU": "Скирк",
+        "TH": "Skirk",
+        "TR": "Skirk",
+        "VI": "Skirk"
+    },
     "3995351756": {
         "CHS": "(test)测试用头像名称",
         "CHT": "",
@@ -2429,5 +2463,22 @@
         "TH": "สักวันต้องพบกันอีก",
         "TR": "Yeniden Görüşene Dek",
         "VI": "Ngày Ắt Sẽ Trùng Phùng"
+    },
+    "495143276": {
+        "CHS": "活力相谈",
+        "CHT": "活力相談",
+        "DE": "Vitales Gespräch",
+        "EN": "Vigorous Yapping",
+        "ES": "Conversación animada",
+        "FR": "Parlotte énergétique",
+        "ID": "Celotehan Bersemangat",
+        "IT": "Chiacchiera vivace",
+        "JP": "元気いっぱいのお話し！",
+        "KR": "활기찬 대화",
+        "PT": "Papo Animado",
+        "RU": "Активное общение",
+        "TH": "พูดคุยอย่างคึกคัก",
+        "TR": "Heyecanlı Sohbet",
+        "VI": "Trò Chuyện Sôi Nổi"
     }
 }
