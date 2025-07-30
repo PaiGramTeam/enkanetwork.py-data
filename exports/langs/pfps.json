@@ -356,6 +356,23 @@
         "TR": "Bennett",
         "VI": "Bennett"
     },
+    "2809278668": {
+        "CHS": "班尼特·炽绘奇旅",
+        "CHT": "班尼特·熾繪奇旅",
+        "DE": "Bennett – Feurige Wanderung",
+        "EN": "Bennett: Adventures in Blazing Hue",
+        "ES": "Bennett: Aventura ardorosa",
+        "FR": "Bennett : Aventures en flamboyantes couleurs",
+        "ID": "Bennett: Adventures in Blazing Hue",
+        "IT": "Bennett: Avventure tra colori sfolgoranti",
+        "JP": "ベネット・燃えろ！ラクガキ大冒険",
+        "KR": "베넷·뜨거운 색채",
+        "PT": "Bennett: Jornada das Chamas",
+        "RU": "Беннет: Пылающие приключения",
+        "TH": "Bennett - การผจญภัยอันลุกโชน",
+        "TR": "Bennett: Alev Renkli Maceralar",
+        "VI": "Bennett - Hành Trình Sắc Lửa"
+    },
     "2140800276": {
         "CHS": "诺艾尔",
         "CHT": "諾艾爾",
@@ -1171,6 +1188,23 @@
         "TH": "Yelan",
         "TR": "Yelan",
         "VI": "Yelan"
+    },
+    "3675281316": {
+        "CHS": "夜兰·静暇雅宴",
+        "CHT": "夜蘭·靜暇雅宴",
+        "DE": "Yelan: Ruhiges Festmahl",
+        "EN": "Yelan: Tranquil Banquet",
+        "ES": "Yelan: Convite sereno",
+        "FR": "Yelan : Banquet paisible",
+        "ID": "Yelan: Tranquil Banquet",
+        "IT": "Yelan: Banchetto sereno",
+        "JP": "夜蘭・静謐の饗宴",
+        "KR": "야란·고요한 밤의 연회",
+        "PT": "Yelan: Banquete de Serenidade",
+        "RU": "Е Лань: Банкет безмятежности",
+        "TH": "Yelan - งานเลี้ยงแสนสงบ",
+        "TR": "Yelan: Sessiz Ziyafet",
+        "VI": "Yelan - Yến Tiệc Tĩnh Lặng"
     },
     "3488543924": {
         "CHS": "久岐忍",
@@ -2090,6 +2124,23 @@
         "TR": "Skirk",
         "VI": "Skirk"
     },
+    "498925204": {
+        "CHS": "伊涅芙",
+        "CHT": "伊涅芙",
+        "DE": "Ineffa",
+        "EN": "Ineffa",
+        "ES": "Ineffa",
+        "FR": "Ineffa",
+        "ID": "Ineffa",
+        "IT": "Ineffa",
+        "JP": "イネファ",
+        "KR": "이네파",
+        "PT": "Ineffa",
+        "RU": "Инеффа",
+        "TH": "Ineffa",
+        "TR": "Ineffa",
+        "VI": "Ineffa"
+    },
     "3995351756": {
         "CHS": "(test)测试用头像名称",
         "CHT": "",
@@ -2463,6 +2514,23 @@
         "TH": "สักวันต้องพบกันอีก",
         "TR": "Yeniden Görüşene Dek",
         "VI": "Ngày Ắt Sẽ Trùng Phùng"
+    },
+    "3867234500": {
+        "CHS": "渡过烬海的学者",
+        "CHT": "渡過燼海的學者",
+        "DE": "Gelehrter, der das Mare Jivari überquert hat",
+        "EN": "The Scholar Who Crossed the Mare Jivari",
+        "ES": "El erudito que cruzó el Mare Jivari",
+        "FR": "Chercheur ayant traversé la Mare Jivari",
+        "ID": "Pelajar yang Melintasi Mare Jivari",
+        "IT": "Lo studioso che attraversò il Mare Jivari",
+        "JP": "燼海を渡った学者",
+        "KR": "잿더미 바다 위를 걷는 학자",
+        "PT": "O Pesquisador Que Atravessou o Mare Jivari",
+        "RU": "Учёный, покоривший Пепельное море",
+        "TH": "นักวิชาการผู้ข้าม Mare Jivari",
+        "TR": "Mare Jivari'yi Geçen Alim",
+        "VI": "Học Giả Vượt Qua Vùng Biển Lặng"
     },
     "495143276": {
         "CHS": "活力相谈",
