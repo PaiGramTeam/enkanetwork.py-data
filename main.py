@@ -17,7 +17,6 @@ from utils import (
     save_commit_local,
     save_data
 )
-from talent.talent import main as get_talent
 
 # API GIT
 GIT2="https://gitlab.com/api/v4/{PATH}"
@@ -421,9 +420,6 @@ async def main():
         await save_data(EXPORT_DATA[key], f"{key}.json", _delKey)
         if not key in SKIP_HASH:
             await create_lang(EXPORT_DATA[key], f"{key}.json", False if key in ["fight_props"] else True)  
-
-    LOGGER.debug("fetching talents")
-    get_talent()
 
     # Push to github
     if not DEVMODE:

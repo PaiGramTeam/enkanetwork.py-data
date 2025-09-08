@@ -3,4 +3,3 @@ raw/data/*.json
 raw/langs/*.json
 __pycache__
 .env
-temp/
