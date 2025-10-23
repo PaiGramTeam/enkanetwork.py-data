@@ -339,7 +339,9 @@ async def main():
         })
 
         if avatar["iconName"].endswith("_PlayerBoy") or \
-            avatar["iconName"].endswith("_PlayerGirl"):
+            avatar["iconName"].endswith("_PlayerGirl") or \
+            avatar["iconName"].endswith("_MannequinBoy") or \
+            avatar["iconName"].endswith("_MannequinGirl"):
             LOGGER.debug("Getting skill (candSkillDepotIds): {}...".format(avatar["candSkillDepotIds"]))
 
             for cand_depot in avatar["candSkillDepotIds"]:
