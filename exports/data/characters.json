@@ -2325,6 +2325,228 @@
             1166
         ]
     },
+    "10000117-11701": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "",
+        "skills": [
+            11171
+        ],
+        "talents": []
+    },
+    "10000117-11702": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Fire",
+        "skills": [
+            11171,
+            11172,
+            111751
+        ],
+        "talents": []
+    },
+    "10000117-11703": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Water",
+        "skills": [
+            11171,
+            11172,
+            111752
+        ],
+        "talents": []
+    },
+    "10000117-11704": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Electric",
+        "skills": [
+            11171,
+            11172,
+            111753
+        ],
+        "talents": []
+    },
+    "10000117-11705": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Ice",
+        "skills": [
+            11171,
+            11172,
+            111754
+        ],
+        "talents": []
+    },
+    "10000117-11706": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Wind",
+        "skills": [
+            11171,
+            11172,
+            111755
+        ],
+        "talents": []
+    },
+    "10000117-11707": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Rock",
+        "skills": [
+            11171,
+            11172,
+            111756
+        ],
+        "talents": []
+    },
+    "10000117-11708": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Grass",
+        "skills": [
+            11171,
+            11172,
+            111757
+        ],
+        "talents": []
+    },
+    "10000117": {
+        "nameTextMapHash": 1496871274,
+        "iconName": "UI_AvatarIcon_MannequinBoy",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Grass",
+        "skills": [],
+        "talents": []
+    },
+    "10000118-11801": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "",
+        "skills": [
+            11171
+        ],
+        "talents": []
+    },
+    "10000118-11802": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Fire",
+        "skills": [
+            11171,
+            11172,
+            111751
+        ],
+        "talents": []
+    },
+    "10000118-11803": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Water",
+        "skills": [
+            11171,
+            11172,
+            111752
+        ],
+        "talents": []
+    },
+    "10000118-11804": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Electric",
+        "skills": [
+            11171,
+            11172,
+            111753
+        ],
+        "talents": []
+    },
+    "10000118-11805": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Ice",
+        "skills": [
+            11171,
+            11172,
+            111754
+        ],
+        "talents": []
+    },
+    "10000118-11806": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Wind",
+        "skills": [
+            11171,
+            11172,
+            111755
+        ],
+        "talents": []
+    },
+    "10000118-11807": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Rock",
+        "skills": [
+            11171,
+            11172,
+            111756
+        ],
+        "talents": []
+    },
+    "10000118-11808": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Grass",
+        "skills": [
+            11171,
+            11172,
+            111757
+        ],
+        "talents": []
+    },
+    "10000118": {
+        "nameTextMapHash": 4125864442,
+        "iconName": "UI_AvatarIcon_MannequinGirl",
+        "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
+        "qualityType": "QUALITY_ORANGE_SP",
+        "costElemType": "Grass",
+        "skills": [],
+        "talents": []
+    },
     "10000119": {
         "nameTextMapHash": 1776874018,
         "iconName": "UI_AvatarIcon_Lauma",
@@ -2383,6 +2605,26 @@
             1214,
             1215,
             1216
+        ]
+    },
+    "10000122": {
+        "nameTextMapHash": 2745786202,
+        "iconName": "UI_AvatarIcon_Nefer",
+        "sideIconName": "UI_AvatarIcon_Side_Nefer",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            11221,
+            11222,
+            11225
+        ],
+        "talents": [
+            1221,
+            1222,
+            1223,
+            1224,
+            1225,
+            1226
         ]
     },
     "10000901": {
@@ -2444,5 +2686,23 @@
             1165,
             1166
         ]
+    },
+    "10000998": {
+        "nameTextMapHash": 88677158,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
+    },
+    "10000999": {
+        "nameTextMapHash": 3434459630,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
     }
 }
