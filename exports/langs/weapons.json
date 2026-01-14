@@ -1002,6 +1002,23 @@
         "TR": "Karanlık Ayin Kılıcı",
         "VI": "Hắc Ám Xâm Thực"
     },
+    "1573692171": {
+        "CHS": "朏魄含光",
+        "CHT": "朏魄含光",
+        "DE": "Lichtbringende Mondscherbe",
+        "EN": "Lightbearing Moonshard",
+        "ES": "Refulgencia de la Luna",
+        "FR": "Éclat lunaire luminescent",
+        "ID": "Lightbearing Moonshard",
+        "IT": "Frammento lunare portaluce",
+        "JP": "三日月の含光",
+        "KR": "신월의 달빛",
+        "PT": "Fragmento Lunar da Luz",
+        "RU": "Светоносный осколок луны",
+        "TH": "Lightbearing Moonshard",
+        "TR": "Işıldayan Ay Parçası",
+        "VI": "Mảnh Trăng Ánh Sáng"
+    },
     "2666951267": {
         "CHS": "训练大剑",
         "CHT": "訓練大劍",
@@ -3415,6 +3432,23 @@
         "TH": "Reliquary of Truth",
         "TR": "Hakikat Kutusu",
         "VI": "Chân Ngôn Bí Hạp"
+    },
+    "1441327747": {
+        "CHS": "帷间夜曲",
+        "CHT": "帷間夜曲",
+        "DE": "Nachtmusik im Schleier",
+        "EN": "Nocturne's Curtain Call",
+        "ES": "Nocturno tras el Velo",
+        "FR": "Rappel de la nocturne",
+        "ID": "Nocturne's Curtain Call",
+        "IT": "Sipario del notturno",
+        "JP": "帳の夜曲",
+        "KR": "막간의 야상곡",
+        "PT": "Cortinas Noturnas",
+        "RU": "Вызов ноктюрна",
+        "TH": "Nocturne's Curtain Call",
+        "TR": "Son Perde Noktürnü",
+        "VI": "Dạ Khúc Hạ Màn"
     },
     "3600623979": {
         "CHS": "猎弓",

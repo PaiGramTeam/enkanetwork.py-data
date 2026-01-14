@@ -1154,5 +1154,39 @@
         "TH": "Silken Moon's Serenade",
         "TR": "İpeksi Ayın Serenadı",
         "VI": "Khúc Ca Trăng Lụa"
+    },
+    "894629371": {
+        "CHS": "晨星与月的晓歌",
+        "CHT": "晨星與月的曉歌",
+        "DE": "Gesang von Stern und Mond",
+        "EN": "Aubade of Morningstar and Moon",
+        "ES": "Alborada de la Estrella del Alba y la Luna",
+        "FR": "Aubade d'astre et de lune",
+        "ID": "Aubade of Morningstar and Moon",
+        "IT": "Aubade della stella del mattino e della luna",
+        "JP": "暁の星と月の歌",
+        "KR": "샛별과 달의 여명",
+        "PT": "Serenata das Estrelas e da Lua",
+        "RU": "Рассветная песнь звезды и луны",
+        "TH": "Aubade of Morningstar and Moon",
+        "TR": "Seher Yıldızı ve Ayın Sabah Şarkısı",
+        "VI": "Khúc Ca Của Trăng Và Sao Mai"
+    },
+    "3721836931": {
+        "CHS": "风起之日",
+        "CHT": "風起之日",
+        "DE": "Tag des aufkommenden Windes",
+        "EN": "A Day Carved From Rising Winds",
+        "ES": "Día de los Vientos Alzantes",
+        "FR": "Journée sculptée par les vents ascendants",
+        "ID": "A Day Carved From Rising Winds",
+        "IT": "Un giorno scolpito dai venti ascendenti",
+        "JP": "風立ちの日",
+        "KR": "바람이 시작되는 날",
+        "PT": "Ascensão Zéfira",
+        "RU": "День восходящих ветров",
+        "TH": "A Day Carved From Rising Winds",
+        "TR": "Rüzgarların Şekillendirdiği Bir Gün",
+        "VI": "Ngày Nổi Gió"
     }
 }
