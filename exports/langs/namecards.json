@@ -2319,7 +2319,7 @@
         "ES": "Laila - Ensoñación",
         "FR": "Layla - Rêverie",
         "ID": "Layla: Daydream",
-        "IT": "Layla: sogno a occhi aperti",
+        "IT": "Layla: Sogno a occhi aperti",
         "JP": "レイラ·白昼夢",
         "KR": "레일라·백일몽",
         "PT": "Layla: Sonhando Acordado",
@@ -4554,5 +4554,39 @@
         "TH": "บันทึก - พราวประทีป",
         "TR": "Gezi Notları: Fener Işığında Övgüler",
         "VI": "Nhật Ký Hành Trình - Bôn Tiêu"
+    },
+    "124652340": {
+        "CHS": "法尔伽·头狼",
+        "CHT": "法爾伽·頭狼",
+        "DE": "Varka – Leitwolf",
+        "EN": "Varka: Lead Wolf",
+        "ES": "Varka - Lobo alfa",
+        "FR": "Varka - Chef de meute",
+        "ID": "Varka: Lead Wolf",
+        "IT": "Varka: Capobranco",
+        "JP": "ファルカ・群狼の長",
+        "KR": "바르카·우두머리 늑대",
+        "PT": "Varka: Lobo Líder",
+        "RU": "Вожак стаи",
+        "TH": "Varka - จ่าฝูงหมาป่า",
+        "TR": "Varka: Lider Kurt",
+        "VI": "Varka - Sói Đầu Đàn"
+    },
+    "3598642812": {
+        "CHS": "纪行·北风",
+        "CHT": "紀行·北風",
+        "DE": "Erlebnispass – Nordwind",
+        "EN": "Travel Notes: Northerly Winds",
+        "ES": "PB - Viento del Norte",
+        "FR": "PB - Vents du nord",
+        "ID": "Catatan Perjalanan: Angin Utara",
+        "IT": "Appunti di viaggio: Venti del Nord",
+        "JP": "紀行・北風",
+        "KR": "기행·북풍",
+        "PT": "Passe de Batalha: Vento Norte",
+        "RU": "Северный ветер",
+        "TH": "บันทึก - ลมเหนือ",
+        "TR": "Gezi Notları: Kuzey Rüzgarları",
+        "VI": "Nhật Ký Hành Trình - Bắc Phong"
     }
 }
