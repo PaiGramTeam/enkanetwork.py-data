@@ -120,20 +120,13 @@ async def main():
 
     await asyncio.sleep(1)
 
-    if not SKIP_DOWNLOAD:
-        langPath = await request(GIT2.format(PATH=f"/projects/{PROJECT_ID}/repository/tree?recursive=true&path={os.getenv('LANG_FOLDER')}"))
-        for lang in langPath:
-            await download_json(
-                url=RAW_GIT2.format(PATH=f"{USERNAME}/{REPOSITORY}/-/raw/{PROJECT_BRANCH}/{lang['path']}"),
-                filename=lang["name"],
-                path=os.path.join("raw", "langs")
-            )
+    # download langs, moved to download.sh
 
     # Load langs 
     for lang in os.listdir(os.path.join("raw", "langs")):
         if lang.endswith(".json"):
             with open(os.path.join("raw", "langs", lang), "r", encoding="utf-8") as f:
-                _lang = lang.split(".")[0].replace("TextMap", "")
+                _lang = lang.split(".")[0].replace("TextMap", "").replace("_Medium", "")
                 _lang_real = _lang.split("_")[0]
                 LOGGER.debug(f"Loading lang ({_lang}) {_lang_real}...")
                 _temp_dict = LANGS.get(_lang_real, {})
