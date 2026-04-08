@@ -33,7 +33,7 @@
         "TR": "{0}: Yer ve Gök Yeniden Yaratılırken",
         "VI": "{0} - Phục Địa Trùng Thiên"
     },
-    "271219620": {
+    "271219108": {
         "CHS": "{0}",
         "CHT": "{0}",
         "DE": "{0}",
@@ -84,7 +84,7 @@
         "TR": "Amber",
         "VI": "Amber"
     },
-    "4011886236": {
+    "4011885724": {
         "CHS": "安柏·100%侦察骑士",
         "CHT": "安柏·100%偵察騎士",
         "DE": "Amber: Kundschafter durch und durch",
@@ -135,7 +135,7 @@
         "TR": "Kaeya: Yelkenli Gölgesi",
         "VI": "Kaeya - Cánh Buồm Lướt Gió"
     },
-    "1430880228": {
+    "1430879716": {
         "CHS": "丽莎",
         "CHT": "麗莎",
         "DE": "Lisa",
@@ -203,7 +203,7 @@
         "TR": "Barbara: Muhteşem Yaz",
         "VI": "Barbara - Mùa Hè Rực Rỡ"
     },
-    "1324426164": {
+    "1324425652": {
         "CHS": "雷泽",
         "CHT": "雷澤",
         "DE": "Razor",
@@ -220,7 +220,7 @@
         "TR": "Razor",
         "VI": "Razor"
     },
-    "2206393084": {
+    "2206392572": {
         "CHS": "香菱",
         "CHT": "香菱",
         "DE": "Xiangling",
@@ -237,7 +237,7 @@
         "TR": "Xiangling",
         "VI": "Xiangling"
     },
-    "1178901364": {
+    "1178900852": {
         "CHS": "香菱·岁夜欢哗",
         "CHT": "香菱·歲夜歡譁",
         "DE": "Xiangling – Neujahrsjubel",
@@ -322,7 +322,7 @@
         "TR": "Ningguang",
         "VI": "Ningguang"
     },
-    "3049375396": {
+    "3049374884": {
         "CHS": "凝光·纱中幽兰",
         "CHT": "凝光·紗中幽蘭",
         "DE": "Ningguang: Orchideen-Abendkleid",
@@ -373,7 +373,7 @@
         "TR": "Fischl: Ein Immernachtstraum",
         "VI": "Fischl - Giấc Mộng Đêm Khuya"
     },
-    "3881895660": {
+    "3881895148": {
         "CHS": "班尼特",
         "CHT": "班尼特",
         "DE": "Bennett",
@@ -424,7 +424,7 @@
         "TR": "Noelle",
         "VI": "Noelle"
     },
-    "1589080740": {
+    "1589080228": {
         "CHS": "重云",
         "CHT": "重雲",
         "DE": "Chongyun",
@@ -441,7 +441,7 @@
         "TR": "Chongyun",
         "VI": "Chongyun"
     },
-    "3451600692": {
+    "3451600180": {
         "CHS": "砂糖",
         "CHT": "砂糖",
         "DE": "Saccharose",
@@ -458,7 +458,7 @@
         "TR": "Sucrose",
         "VI": "Sucrose"
     },
-    "3076704084": {
+    "3076703572": {
         "CHS": "琴",
         "CHT": "琴",
         "DE": "Jean",
@@ -492,7 +492,7 @@
         "TR": "Jean: Gunnhildr'ın Mirası",
         "VI": "Jean - Thừa Kế Của Gunnhildr"
     },
-    "106642220": {
+    "106641708": {
         "CHS": "琴·海风之梦",
         "CHT": "琴·海風之夢",
         "DE": "Jean: Traum von der Meeresbrise",
@@ -509,7 +509,7 @@
         "TR": "Jean: Deniz Esintisi Rüyası",
         "VI": "Jean - Giấc Mộng Gió Biển"
     },
-    "2487288620": {
+    "2487288108": {
         "CHS": "迪卢克",
         "CHT": "迪盧克",
         "DE": "Diluc",
@@ -526,7 +526,7 @@
         "TR": "Diluc",
         "VI": "Diluc"
     },
-    "2579470204": {
+    "2579469692": {
         "CHS": "迪卢克·殷红终夜",
         "CHT": "迪盧克·殷紅終夜",
         "DE": "Diluc: Blutrote Nacht",
@@ -543,7 +543,7 @@
         "TR": "Diluc: Kırmızı Gecenin Karanlığı",
         "VI": "Diluc - Màn Đêm Đỏ Thẫm"
     },
-    "1651684028": {
+    "1651683516": {
         "CHS": "七七",
         "CHT": "七七",
         "DE": "Qiqi",
@@ -577,7 +577,7 @@
         "TR": "Mona",
         "VI": "Mona"
     },
-    "1859247892": {
+    "1859247380": {
         "CHS": "莫娜·星与月之约",
         "CHT": "莫娜·星與月之約",
         "DE": "Mona: Rendezvous von Mond und Sternen",
@@ -679,7 +679,7 @@
         "TR": "Klee: Çiçek Açan Yıldız Işığı",
         "VI": "Klee - Hoa Lửa Rực Rỡ"
     },
-    "3452475956": {
+    "3452475444": {
         "CHS": "迪奥娜",
         "CHT": "迪奧娜",
         "DE": "Diona",
@@ -747,7 +747,7 @@
         "TR": "Zhongli",
         "VI": "Zhongli"
     },
-    "4037900132": {
+    "4037899620": {
         "CHS": "阿贝多",
         "CHT": "阿貝多",
         "DE": "Albedo",
@@ -798,7 +798,7 @@
         "TR": "Ganyu: Alacakaranlık Çiçeği",
         "VI": "Ganyu - Hoa Ngọc Ngát Hương"
     },
-    "2799653588": {
+    "2799653076": {
         "CHS": "魈",
         "CHT": "魈",
         "DE": "Xiao",
@@ -832,7 +832,7 @@
         "TR": "Hu Tao",
         "VI": "Hu Tao"
     },
-    "1034360652": {
+    "1034360140": {
         "CHS": "胡桃·宿雪桃红",
         "CHT": "胡桃·宿雪桃紅",
         "DE": "Hu Tao – Schneebedeckte Kirschen",
@@ -883,7 +883,7 @@
         "TR": "Rosaria: Kilisenin Özgür Ruhu",
         "VI": "Rosaria - Tu Nữ Tự Do"
     },
-    "2418667468": {
+    "2418666956": {
         "CHS": "烟绯",
         "CHT": "煙緋",
         "DE": "Yanfei",
@@ -900,7 +900,7 @@
         "TR": "Yanfei",
         "VI": "Yanfei"
     },
-    "3544158164": {
+    "3544157652": {
         "CHS": "优菈",
         "CHT": "優菈",
         "DE": "Eula",
@@ -917,7 +917,7 @@
         "TR": "Eula",
         "VI": "Eula"
     },
-    "3249781436": {
+    "3249780924": {
         "CHS": "枫原万叶",
         "CHT": "楓原萬葉",
         "DE": "Kaedehara Kazuha",
@@ -934,7 +934,7 @@
         "TR": "Kaedehara Kazuha",
         "VI": "Kaedehara Kazuha"
     },
-    "3187703364": {
+    "3187702852": {
         "CHS": "神里绫华",
         "CHT": "神里綾華",
         "DE": "Kamisato Ayaka",
@@ -951,7 +951,7 @@
         "TR": "Kamisato Ayaka",
         "VI": "Kamisato Ayaka"
     },
-    "376817380": {
+    "376816868": {
         "CHS": "神里绫华·花时来信",
         "CHT": "神里綾華·花時來信",
         "DE": "Kamisato Ayaka: Botschaft der Blütezeit",
@@ -968,7 +968,7 @@
         "TR": "Kamisato Ayaka: Bahar Çiçeği Mektubu",
         "VI": "Kamisato Ayaka - Thư Từ Hoa Xuân"
     },
-    "4082960244": {
+    "4082959732": {
         "CHS": "早柚",
         "CHT": "早柚",
         "DE": "Sayu",
@@ -985,7 +985,7 @@
         "TR": "Sayu",
         "VI": "Sayu"
     },
-    "2552836988": {
+    "2552836476": {
         "CHS": "宵宫",
         "CHT": "宵宮",
         "DE": "Yoimiya",
@@ -1036,7 +1036,7 @@
         "TR": "Kujou Sara",
         "VI": "Kujou Sara"
     },
-    "1384773420": {
+    "1384772908": {
         "CHS": "雷电将军",
         "CHT": "雷電將軍",
         "DE": "Shougun Raiden",
@@ -1070,7 +1070,7 @@
         "TR": "Sangonomiya Kokomi",
         "VI": "Sangonomiya Kokomi"
     },
-    "4259359556": {
+    "4259359044": {
         "CHS": "托马",
         "CHT": "托馬",
         "DE": "Thoma",
@@ -1087,7 +1087,7 @@
         "TR": "Thoma",
         "VI": "Thoma"
     },
-    "2590272292": {
+    "2590271780": {
         "CHS": "五郎",
         "CHT": "五郎",
         "DE": "Gorou",
@@ -1104,7 +1104,7 @@
         "TR": "Gorou",
         "VI": "Gorou"
     },
-    "1439449756": {
+    "1439449244": {
         "CHS": "荒泷一斗",
         "CHT": "荒瀧一斗",
         "DE": "Arataki Itto",
@@ -1121,7 +1121,7 @@
         "TR": "Arataki Itto",
         "VI": "Arataki Itto"
     },
-    "1748326324": {
+    "1748325812": {
         "CHS": "云堇",
         "CHT": "雲堇",
         "DE": "Yun Jin",
@@ -1138,7 +1138,7 @@
         "TR": "Yun Jin",
         "VI": "Yun Jin"
     },
-    "1379338044": {
+    "1379337532": {
         "CHS": "申鹤",
         "CHT": "申鶴",
         "DE": "Shenhe",
@@ -1155,7 +1155,7 @@
         "TR": "Shenhe",
         "VI": "Shenhe"
     },
-    "561207228": {
+    "561206716": {
         "CHS": "申鹤·冷花幽露",
         "CHT": "申鶴·冷花幽露",
         "DE": "Shenhe – Frostblütentau",
@@ -1206,7 +1206,7 @@
         "TR": "Kamisato Ayato",
         "VI": "Kamisato Ayato"
     },
-    "1139213860": {
+    "1139213348": {
         "CHS": "夜兰",
         "CHT": "夜蘭",
         "DE": "Yelan",
@@ -1223,7 +1223,7 @@
         "TR": "Yelan",
         "VI": "Yelan"
     },
-    "3675281316": {
+    "3675280804": {
         "CHS": "夜兰·静暇雅宴",
         "CHT": "夜蘭·靜暇雅宴",
         "DE": "Yelan: Ruhiges Festmahl",
@@ -1274,7 +1274,7 @@
         "TR": "Shikanoin Heizou",
         "VI": "Shikanoin Heizou"
     },
-    "1985782300": {
+    "1985781788": {
         "CHS": "柯莱",
         "CHT": "柯萊",
         "DE": "Collei",
@@ -1291,7 +1291,7 @@
         "TR": "Collei",
         "VI": "Collei"
     },
-    "2369699668": {
+    "2369699156": {
         "CHS": "提纳里",
         "CHT": "提納里",
         "DE": "Tighnari",
@@ -1308,7 +1308,7 @@
         "TR": "Tighnari",
         "VI": "Tighnari"
     },
-    "3746931452": {
+    "3746930940": {
         "CHS": "多莉",
         "CHT": "多莉",
         "DE": "Dori",
@@ -1342,7 +1342,7 @@
         "TR": "Candace",
         "VI": "Candace"
     },
-    "4170326540": {
+    "4170326028": {
         "CHS": "赛诺",
         "CHT": "賽諾",
         "DE": "Cyno",
@@ -1376,7 +1376,7 @@
         "TR": "Nilou",
         "VI": "Nilou"
     },
-    "3251293852": {
+    "3251293340": {
         "CHS": "妮露·莎邦之息",
         "CHT": "妮露·莎邦之息",
         "DE": "Nilou – Atem des Sabaa",
@@ -1427,7 +1427,7 @@
         "TR": "Layla",
         "VI": "Layla"
     },
-    "1171845828": {
+    "1171845316": {
         "CHS": "珐露珊",
         "CHT": "琺露珊",
         "DE": "Faruzan",
@@ -1444,7 +1444,7 @@
         "TR": "Faruzan",
         "VI": "Faruzan"
     },
-    "3210918732": {
+    "3210918220": {
         "CHS": "{0}",
         "CHT": "{0}",
         "DE": "{0}",
@@ -1478,7 +1478,7 @@
         "TR": "Yaoyao",
         "VI": "Yaoyao"
     },
-    "2806998604": {
+    "2806998092": {
         "CHS": "瑶瑶·聆雨听竹",
         "CHT": "瑤瑤·聆雨聽竹",
         "DE": "Yaoyao: Ein Traum von Regen und Bambus",
@@ -1512,7 +1512,7 @@
         "TR": "Alhaitham",
         "VI": "Alhaitham"
     },
-    "1497016220": {
+    "1497015708": {
         "CHS": "迪希雅",
         "CHT": "迪希雅",
         "DE": "Dehya",
@@ -1546,7 +1546,7 @@
         "TR": "Mika",
         "VI": "Mika"
     },
-    "1467637604": {
+    "1467637092": {
         "CHS": "卡维",
         "CHT": "卡維",
         "DE": "Kaveh",
@@ -1631,7 +1631,7 @@
         "TR": "Lynette",
         "VI": "Lynette"
     },
-    "907368204": {
+    "907367692": {
         "CHS": "林尼",
         "CHT": "林尼",
         "DE": "Lyney",
@@ -1648,7 +1648,7 @@
         "TR": "Lyney",
         "VI": "Lyney"
     },
-    "1821673276": {
+    "1821672764": {
         "CHS": "菲米尼",
         "CHT": "菲米尼",
         "DE": "Fréminet",
@@ -1716,7 +1716,7 @@
         "TR": "Wriothesley",
         "VI": "Wriothesley"
     },
-    "2782129108": {
+    "2782128596": {
         "CHS": "夏洛蒂",
         "CHT": "夏洛蒂",
         "DE": "Charlotte",
@@ -1733,7 +1733,7 @@
         "TR": "Charlotte",
         "VI": "Charlotte"
     },
-    "3727373268": {
+    "3727372756": {
         "CHS": "芙宁娜",
         "CHT": "芙寧娜",
         "DE": "Furina",
@@ -1750,7 +1750,7 @@
         "TR": "Furina",
         "VI": "Furina"
     },
-    "3420068796": {
+    "3420068284": {
         "CHS": "娜维娅",
         "CHT": "娜維婭",
         "DE": "Navia",
@@ -1784,7 +1784,7 @@
         "TR": "Chevreuse",
         "VI": "Chevreuse"
     },
-    "4228481004": {
+    "4228480492": {
         "CHS": "嘉明",
         "CHT": "嘉明",
         "DE": "Gaming",
@@ -1801,7 +1801,7 @@
         "TR": "Gaming",
         "VI": "Gaming"
     },
-    "1294266220": {
+    "1294265708": {
         "CHS": "闲云",
         "CHT": "閒雲",
         "DE": "Xianyun",
@@ -1818,7 +1818,7 @@
         "TR": "Xianyun",
         "VI": "Xianyun"
     },
-    "1057050268": {
+    "1057049756": {
         "CHS": "千织",
         "CHT": "千織",
         "DE": "Chiori",
@@ -1903,7 +1903,7 @@
         "TR": "Sigewinne",
         "VI": "Sigewinne"
     },
-    "2716554828": {
+    "2716554316": {
         "CHS": "艾梅莉埃",
         "CHT": "艾梅莉埃",
         "DE": "Émilie",
@@ -1920,7 +1920,7 @@
         "TR": "Emilie",
         "VI": "Emilie"
     },
-    "4043656188": {
+    "4043655676": {
         "CHS": "卡齐娜",
         "CHT": "卡齊娜",
         "DE": "Kachina",
@@ -1937,7 +1937,7 @@
         "TR": "Kachina",
         "VI": "Kachina"
     },
-    "2031818676": {
+    "2031818164": {
         "CHS": "玛拉妮",
         "CHT": "瑪拉妮",
         "DE": "Mualani",
@@ -1988,7 +1988,7 @@
         "TR": "Xilonen",
         "VI": "Xilonen"
     },
-    "1357596180": {
+    "1357595668": {
         "CHS": "欧洛伦",
         "CHT": "歐洛倫",
         "DE": "Ororon",
@@ -2022,7 +2022,7 @@
         "TR": "Chasca",
         "VI": "Chasca"
     },
-    "2700612516": {
+    "2700612004": {
         "CHS": "茜特菈莉",
         "CHT": "茜特菈莉",
         "DE": "Citlali",
@@ -2039,7 +2039,7 @@
         "TR": "Citlali",
         "VI": "Citlali"
     },
-    "2502300308": {
+    "2502299796": {
         "CHS": "玛薇卡",
         "CHT": "瑪薇卡",
         "DE": "Mavuika",
@@ -2056,7 +2056,7 @@
         "TR": "Mavuika",
         "VI": "Mavuika"
     },
-    "722604652": {
+    "722604140": {
         "CHS": "蓝砚",
         "CHT": "藍硯",
         "DE": "Lan Yan",
@@ -2090,7 +2090,7 @@
         "TR": "Yumemizuki Mizuki",
         "VI": "Yumemizuki Mizuki"
     },
-    "1556759108": {
+    "1556758596": {
         "CHS": "伊安珊",
         "CHT": "伊安珊",
         "DE": "Iansan",
@@ -2107,7 +2107,7 @@
         "TR": "Iansan",
         "VI": "Iansan"
     },
-    "1196917500": {
+    "1196916988": {
         "CHS": "瓦雷莎",
         "CHT": "瓦雷莎",
         "DE": "Varesa",
@@ -2124,7 +2124,7 @@
         "TR": "Varesa",
         "VI": "Varesa"
     },
-    "408855124": {
+    "408854612": {
         "CHS": "伊法",
         "CHT": "伊法",
         "DE": "Ifa",
@@ -2141,7 +2141,7 @@
         "TR": "Ifa",
         "VI": "Ifa"
     },
-    "4080923388": {
+    "4080922876": {
         "CHS": "爱可菲",
         "CHT": "愛可菲",
         "DE": "Escoffier",
@@ -2175,7 +2175,7 @@
         "TR": "Dahlia",
         "VI": "Dahlia"
     },
-    "62039628": {
+    "62039116": {
         "CHS": "丝柯克",
         "CHT": "絲柯克",
         "DE": "Skirk",
@@ -2192,7 +2192,7 @@
         "TR": "Skirk",
         "VI": "Skirk"
     },
-    "498925204": {
+    "498924692": {
         "CHS": "伊涅芙",
         "CHT": "伊涅芙",
         "DE": "Ineffa",
@@ -2226,7 +2226,7 @@
         "TR": "Aino",
         "VI": "Aino"
     },
-    "1088293580": {
+    "1088293068": {
         "CHS": "菈乌玛",
         "CHT": "菈烏瑪",
         "DE": "Lauma",
@@ -2243,7 +2243,7 @@
         "TR": "Lauma",
         "VI": "Lauma"
     },
-    "931177236": {
+    "931176724": {
         "CHS": "菲林斯",
         "CHT": "菲林斯",
         "DE": "Flins",
@@ -2260,7 +2260,7 @@
         "TR": "Flins",
         "VI": "Flins"
     },
-    "4130797420": {
+    "4130796908": {
         "CHS": "奈芙尔",
         "CHT": "奈芙爾",
         "DE": "Nefer",
@@ -2294,7 +2294,7 @@
         "TR": "Durin",
         "VI": "Durin"
     },
-    "3560587876": {
+    "3560587364": {
         "CHS": "杜林·故事的远方",
         "CHT": "杜林·故事的遠方",
         "DE": "Durin – Ferne der Geschichten",
@@ -2345,7 +2345,7 @@
         "TR": "Columbina",
         "VI": "Columbina"
     },
-    "573654980": {
+    "573654468": {
         "CHS": "叶洛亚",
         "CHT": "葉洛亞",
         "DE": "Illuga",
@@ -2379,7 +2379,7 @@
         "TR": "Zibai",
         "VI": "Zibai"
     },
-    "3795335876": {
+    "3795335364": {
         "CHS": "法尔伽",
         "CHT": "法爾伽",
         "DE": "Varka",
@@ -2396,7 +2396,24 @@
         "TR": "Varka",
         "VI": "Varka"
     },
-    "3995351756": {
+    "3136444868": {
+        "CHS": "莉奈娅",
+        "CHT": "莉奈婭",
+        "DE": "Linnea",
+        "EN": "Linnea",
+        "ES": "Linnéa",
+        "FR": "Linnea",
+        "ID": "Linnea",
+        "IT": "Linnea",
+        "JP": "リンネア",
+        "KR": "린네아",
+        "PT": "Linnea",
+        "RU": "Линнея",
+        "TH": "Linnea",
+        "TR": "Linnea",
+        "VI": "Linnea"
+    },
+    "3995351244": {
         "CHS": "(test)测试用头像名称",
         "CHT": "",
         "DE": "",
@@ -2413,7 +2430,7 @@
         "TR": "",
         "VI": ""
     },
-    "4284320332": {
+    "4284319820": {
         "CHS": "花散里的面具",
         "CHT": "花散里的面具",
         "DE": "Hanachirusatos Maske",
@@ -2447,7 +2464,7 @@
         "TR": "\"Asase Tapınağının Geçici Başrahibesi\"",
         "VI": "Guuji Đại Diện Của Đền Asase"
     },
-    "537096092": {
+    "537095580": {
         "CHS": "雷鸟与少年",
         "CHT": "雷鳥與少年",
         "DE": "Der Donnervogel und der Junge",
@@ -2481,7 +2498,7 @@
         "TR": "Dainichi Mikoshi",
         "VI": "Dainichi Mikoshi"
     },
-    "3628954484": {
+    "3628953972": {
         "CHS": "志琼的签名",
         "CHT": "志瓊的簽名",
         "DE": "Zhiqiongs Unterschrift",
@@ -2498,7 +2515,7 @@
         "TR": "Zhiqiong'un İmzası",
         "VI": "Chữ Ký Của Zhiqiong"
     },
-    "2914387620": {
+    "2914387108": {
         "CHS": "兰罗摩",
         "CHT": "蘭羅摩",
         "DE": "Arama",
@@ -2515,7 +2532,7 @@
         "TR": "Arama",
         "VI": "Arama"
     },
-    "1698312916": {
+    "1698312404": {
         "CHS": "婕德与奔奔",
         "CHT": "婕德與奔奔",
         "DE": "Jeht und Benben",
@@ -2549,7 +2566,7 @@
         "TR": "Cinlerin Annesi",
         "VI": "Người Mẹ Trấn Linh"
     },
-    "4204508124": {
+    "4204507612": {
         "CHS": "花灵勇者·斯露莎",
         "CHT": "花靈勇者·斯露莎",
         "DE": "Sorush, die Tapfere der Pari",
@@ -2583,7 +2600,7 @@
         "TR": "Tanıştığıma Memnun Oldum",
         "VI": "Hân Hạnh Được Gặp Gỡ"
     },
-    "1584610884": {
+    "1584610372": {
         "CHS": "安与玛丽安",
         "CHT": "安與瑪麗安",
         "DE": "Ann und Mary-Ann",
@@ -2617,7 +2634,7 @@
         "TR": "Tırtıl",
         "VI": "Caterpillar"
     },
-    "1630051180": {
+    "1630050668": {
         "CHS": "奇械纹章",
         "CHT": "奇械紋章",
         "DE": "Abzeichen für abgefahrene Apparate",
@@ -2668,7 +2685,7 @@
         "TR": "Pahsiv!",
         "VI": "Pahsiv!"
     },
-    "1960492844": {
+    "1960492332": {
         "CHS": "祀珑典仪",
         "CHT": "祀瓏典儀",
         "DE": "Ritus der Regenjade",
@@ -2702,7 +2719,7 @@
         "TR": "Mösyö Os",
         "VI": "Ngài Os"
     },
-    "1280089932": {
+    "1280089420": {
         "CHS": "你的龙伙伴！",
         "CHT": "#{F#妳}{M#你}的龍夥伴！",
         "DE": "Dein Sauriergefährte!",
@@ -2753,7 +2770,7 @@
         "TR": "Çağlar Boyu Suskun Düşünceler",
         "VI": "Suy Nghĩ Cổ Xưa"
     },
-    "1465870260": {
+    "1465869748": {
         "CHS": "终有重逢之日",
         "CHT": "終有重逢之日",
         "DE": "Bis wir uns wiedersehen",
@@ -2804,7 +2821,7 @@
         "TR": "Donuk Ayın Öteki Tarafı",
         "VI": "Phía Bên Kia Của Sương Nguyệt"
     },
-    "3265492916": {
+    "3265492404": {
         "CHS": "涅朵奇卡",
         "CHT": "涅朵奇卡",
         "DE": "Netochka",
@@ -2838,6 +2855,23 @@
         "TR": "Terpikeraunas'ın Oku",
         "VI": "Mũi Tên Của Terpikeraunas"
     },
+    "270737764": {
+        "CHS": "彩特琳德",
+        "CHT": "彩特琳德",
+        "DE": "Zeitlind",
+        "EN": "Zeitlind",
+        "ES": "Zeitlind",
+        "FR": "Zeitlind",
+        "ID": "Zeitlind",
+        "IT": "Zeitlind",
+        "JP": "カテリンド",
+        "KR": "차이틀린트",
+        "PT": "Zeitlind",
+        "RU": "Цайтлинд",
+        "TH": "Zeitlind",
+        "TR": "Zeitlind",
+        "VI": "Zeitlind"
+    },
     "495143276": {
         "CHS": "活力相谈",
         "CHT": "活力相談",
@@ -2855,7 +2889,7 @@
         "TR": "Heyecanlı Sohbet",
         "VI": "Trò Chuyện Sôi Nổi"
     },
-    "3532004180": {
+    "3532003668": {
         "CHS": "勤思勉学",
         "CHT": "勤思勉學",
         "DE": "Beständiges Lernen",
@@ -2889,7 +2923,7 @@
         "TR": "Varsayılan Manekin Avatarı",
         "VI": "Người Mẫu Nam Mặc Định"
     },
-    "2700570121": {
+    "2700569609": {
         "CHS": "默认奇偶·女性头像",
         "CHT": "預設奇偶·女性頭像",
         "DE": "Standard-Profilbild (Mannekina)",
