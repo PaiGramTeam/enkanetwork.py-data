@@ -1188,5 +1188,39 @@
         "TH": "A Day Carved From Rising Winds",
         "TR": "Rüzgarların Şekillendirdiği Bir Gün",
         "VI": "Ngày Nổi Gió"
+    },
+    "4291032347": {
+        "CHS": "天之美赐",
+        "CHT": "天之美賜",
+        "DE": "Gabe des Himmels",
+        "EN": "Celestial Gift",
+        "ES": "Dádiva Celestial",
+        "FR": "Don céleste",
+        "ID": "Celestial Gift",
+        "IT": "Dono del cielo",
+        "JP": "天からの贈り物",
+        "KR": "하늘의 은총",
+        "PT": "Dádiva Celestial",
+        "RU": "Дар небес",
+        "TH": "Celestial Gift",
+        "TR": "Göklerin Hediyesi",
+        "VI": "Phước Lành Trời Cao"
+    },
+    "1086878883": {
+        "CHS": "影中沉凝的幻灭",
+        "CHT": "影中沉凝的幻滅",
+        "DE": "Bedrückende Desillusionierung im Schatten",
+        "EN": "Disenchantment in Deep Shadow",
+        "ES": "Desilusión Congelada en las Sombras",
+        "FR": "Désenchantement dans l'ombre profonde",
+        "ID": "Disenchantment in Deep Shadow",
+        "IT": "Disincanto nell'ombra profonda",
+        "JP": "影に沈む幻",
+        "KR": "그림자 속 산산조각 난 꿈",
+        "PT": "Desencantamento na Sombra Profunda",
+        "RU": "Застывшее в тени разочарование",
+        "TH": "Disenchantment in Deep Shadow",
+        "TR": "Derin Gölgelerde Uyanış",
+        "VI": "Ảo Tưởng Vụn Vỡ Trong Bóng Tối"
     }
 }

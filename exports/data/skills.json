@@ -2789,6 +2789,26 @@
         "skillIcon": "Skill_S_Varka_03",
         "proudSkillGroupId": 0
     },
+    "11291": {
+        "nameTextMapHash": 3645134973,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 12931
+    },
+    "11292": {
+        "nameTextMapHash": 233848061,
+        "skillIcon": "Skill_S_Lohen_01",
+        "proudSkillGroupId": 12932
+    },
+    "11293": {
+        "nameTextMapHash": 1602066821,
+        "skillIcon": "Skill_S_Lohen_02",
+        "proudSkillGroupId": 0
+    },
+    "11295": {
+        "nameTextMapHash": 3699896461,
+        "skillIcon": "Skill_E_Lohen_01",
+        "proudSkillGroupId": 12939
+    },
     "11301": {
         "nameTextMapHash": 3802462269,
         "skillIcon": "Skill_A_02",
@@ -2818,6 +2838,51 @@
         "nameTextMapHash": 2617735253,
         "skillIcon": "Skill_S_Linnea_02",
         "proudSkillGroupId": 0
+    },
+    "11311": {
+        "nameTextMapHash": 844797405,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 13131
+    },
+    "11312": {
+        "nameTextMapHash": 2633265397,
+        "skillIcon": "Skill_S_Nicole_01",
+        "proudSkillGroupId": 13132
+    },
+    "11313": {
+        "nameTextMapHash": 2528471333,
+        "skillIcon": "Skill_S_Nicole_01",
+        "proudSkillGroupId": 0
+    },
+    "11314": {
+        "nameTextMapHash": 3405994013,
+        "skillIcon": "Skill_S_Nicole_01",
+        "proudSkillGroupId": 0
+    },
+    "11315": {
+        "nameTextMapHash": 829179997,
+        "skillIcon": "Skill_E_Nicole_01",
+        "proudSkillGroupId": 13139
+    },
+    "11321": {
+        "nameTextMapHash": 1006036133,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 13231
+    },
+    "11322": {
+        "nameTextMapHash": 2934257109,
+        "skillIcon": "Skill_S_Prune_01",
+        "proudSkillGroupId": 13232
+    },
+    "11323": {
+        "nameTextMapHash": 2723525117,
+        "skillIcon": "Skill_S_Prune_02",
+        "proudSkillGroupId": 0
+    },
+    "11325": {
+        "nameTextMapHash": 1891834141,
+        "skillIcon": "Skill_E_Prune_01",
+        "proudSkillGroupId": 13239
     },
     "30000": {
         "nameTextMapHash": 3235714085,
@@ -3404,6 +3469,16 @@
         "skillIcon": "Skill_E_LunarisDropDown",
         "proudSkillGroupId": 0
     },
+    "20247": {
+        "nameTextMapHash": 702484893,
+        "skillIcon": "Btn_V6Boss_SkillCombo",
+        "proudSkillGroupId": 0
+    },
+    "20248": {
+        "nameTextMapHash": 2218230197,
+        "skillIcon": "Btn_V6Boss_SkillCombo",
+        "proudSkillGroupId": 0
+    },
     "20400": {
         "nameTextMapHash": 2657713557,
         "skillIcon": "Btn_HideAndSeekV4_Seeker_S",
@@ -3692,6 +3767,21 @@
     "20325": {
         "nameTextMapHash": 692329813,
         "skillIcon": "Btn_Blocking_Burst04",
+        "proudSkillGroupId": 0
+    },
+    "20326": {
+        "nameTextMapHash": 1846805581,
+        "skillIcon": "Btn_BladeHeart_Execution",
+        "proudSkillGroupId": 0
+    },
+    "20327": {
+        "nameTextMapHash": 1016769973,
+        "skillIcon": "Btn_Blocking",
+        "proudSkillGroupId": 0
+    },
+    "20328": {
+        "nameTextMapHash": 4091457021,
+        "skillIcon": "Btn_BladeHeart_Burst",
         "proudSkillGroupId": 0
     },
     "20330": {
@@ -4037,6 +4127,21 @@
     "20664": {
         "nameTextMapHash": 317457693,
         "skillIcon": "Skill_A_FirmamentHand_Hide",
+        "proudSkillGroupId": 0
+    },
+    "20665": {
+        "nameTextMapHash": 2945659181,
+        "skillIcon": "Skill_S_Lohen_02",
+        "proudSkillGroupId": 0
+    },
+    "20666": {
+        "nameTextMapHash": 4253450517,
+        "skillIcon": "Skill_E_Lohen_01",
+        "proudSkillGroupId": 0
+    },
+    "20671": {
+        "nameTextMapHash": 3365693445,
+        "skillIcon": "Skill_Butterfly_Throw_Icon",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4779,9 +4884,24 @@
         "skillIcon": "Skill_A_04",
         "proudSkillGroupId": 0
     },
+    "5129010": {
+        "nameTextMapHash": 1261151549,
+        "skillIcon": "Skill_A_03",
+        "proudSkillGroupId": 0
+    },
     "5130010": {
         "nameTextMapHash": 1351760333,
         "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "5131010": {
+        "nameTextMapHash": 438238653,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5132010": {
+        "nameTextMapHash": 4059668533,
+        "skillIcon": "Skill_A_Catalyst_MD",
         "proudSkillGroupId": 0
     }
 }

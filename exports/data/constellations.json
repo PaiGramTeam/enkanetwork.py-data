@@ -2807,6 +2807,30 @@
         "nameTextMapHash": 1038147057,
         "icon": "UI_Talent_S_Varka_04"
     },
+    "1291": {
+        "nameTextMapHash": 892145105,
+        "icon": "UI_Talent_S_Lohen_01"
+    },
+    "1292": {
+        "nameTextMapHash": 535403585,
+        "icon": "UI_Talent_S_Lohen_02"
+    },
+    "1293": {
+        "nameTextMapHash": 3462380601,
+        "icon": "UI_Talent_U_Lohen_01"
+    },
+    "1294": {
+        "nameTextMapHash": 824249409,
+        "icon": "UI_Talent_S_Lohen_03"
+    },
+    "1295": {
+        "nameTextMapHash": 262187377,
+        "icon": "UI_Talent_U_Lohen_02"
+    },
+    "1296": {
+        "nameTextMapHash": 2909499433,
+        "icon": "UI_Talent_S_Lohen_04"
+    },
     "1301": {
         "nameTextMapHash": 884857169,
         "icon": "UI_Talent_S_Linnea_01"
@@ -2830,5 +2854,53 @@
     "1306": {
         "nameTextMapHash": 2131034433,
         "icon": "UI_Talent_S_Linnea_04"
+    },
+    "1311": {
+        "nameTextMapHash": 3992621257,
+        "icon": "UI_Talent_S_Nicole_01"
+    },
+    "1312": {
+        "nameTextMapHash": 1122400353,
+        "icon": "UI_Talent_S_Nicole_02"
+    },
+    "1313": {
+        "nameTextMapHash": 2436065353,
+        "icon": "UI_Talent_U_Nicole_01"
+    },
+    "1314": {
+        "nameTextMapHash": 1484062001,
+        "icon": "UI_Talent_S_Nicole_03"
+    },
+    "1315": {
+        "nameTextMapHash": 2474626129,
+        "icon": "UI_Talent_U_Nicole_02"
+    },
+    "1316": {
+        "nameTextMapHash": 3796054145,
+        "icon": "UI_Talent_S_Nicole_04"
+    },
+    "1321": {
+        "nameTextMapHash": 2609745105,
+        "icon": "UI_Talent_S_Prune_01"
+    },
+    "1322": {
+        "nameTextMapHash": 808942849,
+        "icon": "UI_Talent_S_Prune_02"
+    },
+    "1323": {
+        "nameTextMapHash": 1811719521,
+        "icon": "UI_Talent_U_Prune_01"
+    },
+    "1324": {
+        "nameTextMapHash": 4291956809,
+        "icon": "UI_Talent_S_Prune_03"
+    },
+    "1325": {
+        "nameTextMapHash": 1560454337,
+        "icon": "UI_Talent_U_Prune_02"
+    },
+    "1326": {
+        "nameTextMapHash": 3044278545,
+        "icon": "UI_Talent_S_Prune_04"
     }
 }

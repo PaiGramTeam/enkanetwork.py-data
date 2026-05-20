@@ -2549,6 +2549,23 @@
         "TR": "Kanlı Harabe",
         "VI": "Tàn Tích Nhuốm Máu"
     },
+    "3376210043": {
+        "CHS": "灾悔",
+        "CHT": "災悔",
+        "DE": "Katastrophe und Reue",
+        "EN": "Disaster and Remorse",
+        "ES": "Desastre y Arrepentimiento",
+        "FR": "Désastre et remords",
+        "ID": "Disaster and Remorse",
+        "IT": "Disastro e rimorso",
+        "JP": "災憾",
+        "KR": "재앙",
+        "PT": "Desastre e Remorso",
+        "RU": "Бедствие и раскаяние",
+        "TH": "Disaster and Remorse",
+        "TR": "Felaket ve Pişmanlık",
+        "VI": "Tai Họa Và Hối Hận"
+    },
     "3584825427": {
         "CHS": "学徒笔记",
         "CHT": "學徒筆記",
@@ -3466,6 +3483,23 @@
         "TH": "Nocturne's Curtain Call",
         "TR": "Son Perde Noktürnü",
         "VI": "Dạ Khúc Hạ Màn"
+    },
+    "1871665507": {
+        "CHS": "尘光七谕",
+        "CHT": "塵光七諭",
+        "DE": "Sieben Gebote von Staub und Licht",
+        "EN": "Angelos' Heptades",
+        "ES": "Heptadas de los Ángeles",
+        "FR": "Heptades des anges",
+        "ID": "Angelos' Heptades",
+        "IT": "Eptadi dell'angelo",
+        "JP": "塵と光の七つの誓約",
+        "KR": "일곱빛 계시",
+        "PT": "Os Sete Éditos da Poeira e Luz",
+        "RU": "Гептада ангела",
+        "TH": "Angelos' Heptades",
+        "TR": "Meleğin Yedi Fermanı",
+        "VI": "Trần Quang Thất Dụ"
     },
     "3600623979": {
         "CHS": "猎弓",

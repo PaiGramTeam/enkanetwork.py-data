@@ -899,6 +899,12 @@
         "awakenIcon": "UI_EquipIcon_Pole_TummaLyhty_Awaken",
         "rankLevel": 5
     },
+    "13517": {
+        "nameTextMapHash": 3376210043,
+        "icon": "UI_EquipIcon_Pole_Carbine",
+        "awakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+        "rankLevel": 5
+    },
     "14101": {
         "nameTextMapHash": 3584825427,
         "icon": "UI_EquipIcon_Catalyst_Apprentice",
@@ -1221,6 +1227,12 @@
         "nameTextMapHash": 1441327235,
         "icon": "UI_EquipIcon_Catalyst_Brisingamen",
         "awakenIcon": "UI_EquipIcon_Catalyst_Brisingamen_Awaken",
+        "rankLevel": 5
+    },
+    "14523": {
+        "nameTextMapHash": 1871665507,
+        "icon": "UI_EquipIcon_Catalyst_FairyGarden",
+        "awakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
         "rankLevel": 5
     },
     "15101": {

@@ -2738,5 +2738,45 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210279": {
+        "nameTextMapHash": 1243687284,
+        "icon": "UI_NameCardIcon_Nicole",
+        "picPath": [
+            "UI_NameCardPic_Nicole_Alpha",
+            "UI_NameCardPic_Nicole_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210280": {
+        "nameTextMapHash": 3632345260,
+        "icon": "UI_NameCardIcon_Lohen",
+        "picPath": [
+            "UI_NameCardPic_Lohen_Alpha",
+            "UI_NameCardPic_Lohen_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210281": {
+        "nameTextMapHash": 2662464956,
+        "icon": "UI_NameCardIcon_Prune",
+        "picPath": [
+            "UI_NameCardPic_Prune_Alpha",
+            "UI_NameCardPic_Prune_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210283": {
+        "nameTextMapHash": 667027596,
+        "icon": "UI_NameCardIcon_Bp50",
+        "picPath": [
+            "UI_NameCardPic_Bp50_Alpha",
+            "UI_NameCardPic_Bp50_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }
