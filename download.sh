@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download AnimeGameData TextMap archive and extract to raw/langs
-URL="https://gitlab.com/Dimbreath/AnimeGameData/-/archive/master/AnimeGameData-master.tar?ref_type=heads&path=TextMap"
+URL="https://gitlab.com/Dimbreath/animegamedata2/-/archive/main/animegamedata2-main.tar?ref_type=heads&path=TextMap"
 OUTPUT_DIR="raw/langs"
 
 # Create output directory if it doesn't exist
@@ -20,6 +20,6 @@ rm -f temp.tar
 
 # move extracted files to the output directory
 echo "Moving files to $OUTPUT_DIR..."
-mv AnimeGameData-master-TextMap/TextMap/* "$OUTPUT_DIR/"
+mv animegamedata2-main-TextMap/TextMap/* "$OUTPUT_DIR/"
 
 echo "Done!"
