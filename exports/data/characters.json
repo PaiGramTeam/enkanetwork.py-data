@@ -2827,6 +2827,26 @@
             1326
         ]
     },
+    "10000133": {
+        "nameTextMapHash": 108893506,
+        "iconName": "UI_AvatarIcon_MarionetteNew",
+        "sideIconName": "UI_AvatarIcon_Side_MarionetteNew",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11331,
+            11332,
+            11335
+        ],
+        "talents": [
+            1331,
+            1332,
+            1333,
+            1334,
+            1335,
+            1336
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134138,
         "iconName": "UI_AvatarIcon_Mavuika",

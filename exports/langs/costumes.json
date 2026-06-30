@@ -474,5 +474,39 @@
         "TH": "สดับเสียงฝนยลทิวไผ่",
         "TR": "Yağmurlu Bambu Rüyası",
         "VI": "Lắng Nghe Mưa Trúc"
+    },
+    "2425226658": {
+        "CHS": "星与烟帷的夜语",
+        "CHT": "星與煙帷的夜語",
+        "DE": "Nachtgespräch zwischen Sternen und Rauch",
+        "EN": "Whispers of Stars and Smoke",
+        "ES": "Susurros de las estrellas y el humo",
+        "FR": "Murmures d'étoiles et de fumée",
+        "ID": "Whispers of Stars and Smoke",
+        "IT": "Sussurri tra le stelle e il fumo",
+        "JP": "星と煙霧の夜話",
+        "KR": "별과 연기가 속삭이는 밤",
+        "PT": "Sussurros de Estrelas e Fumaça",
+        "RU": "Шёпот звёзд и дыма",
+        "TH": "เสียงกระซิบจากดวงดาวและม่านหมอก",
+        "TR": "Yıldızların ve Dumanın Fısıltıları",
+        "VI": "Thì Thầm Của Sao Và Khói"
+    },
+    "2343036970": {
+        "CHS": "赫尔洛克变奏曲",
+        "CHT": "赫爾洛克變奏曲",
+        "DE": "Hurlock-Variationen",
+        "EN": "Hurlock Variations",
+        "ES": "Variación de Hurlock",
+        "FR": "Variations de Hurlock",
+        "ID": "Hurlock Variations",
+        "IT": "Variazioni di Hurlock",
+        "JP": "ハーロック変奏曲",
+        "KR": "명탐정 헐록의 변주곡",
+        "PT": "Variações de Herlock",
+        "RU": "Вариации Харлока",
+        "TH": "บทเพลงแปรทำนองของ Hurlock",
+        "TR": "Hurlock Çeşitlemeleri",
+        "VI": "Khúc Biến Tấu Hurlock"
     }
 }

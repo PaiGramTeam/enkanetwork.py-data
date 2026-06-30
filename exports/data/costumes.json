@@ -138,5 +138,15 @@
         "iconName": "UI_AvatarIcon_YaoyaoCostumeWinter",
         "sideIconName": "UI_AvatarIcon_Side_YaoyaoCostumeWinter",
         "nameTextMapHash": 744635826
+    },
+    "210701": {
+        "iconName": "UI_AvatarIcon_CitlaliCostumeXia",
+        "sideIconName": "UI_AvatarIcon_Side_CitlaliCostumeXia",
+        "nameTextMapHash": 2425226658
+    },
+    "208801": {
+        "iconName": "UI_AvatarIcon_CharlotteCostumeDong",
+        "sideIconName": "UI_AvatarIcon_Side_CharlotteCostumeDong",
+        "nameTextMapHash": 2343036970
     }
 }

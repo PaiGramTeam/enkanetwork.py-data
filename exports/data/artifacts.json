@@ -33734,11 +33734,11 @@
     "23547": {
         "nameTextMapHash": 3943782804,
         "itemType": "ITEM_RELIQUARY",
-        "equipType": "EQUIP_NECKLACE",
-        "icon": "UI_RelicIcon_15017_2",
-        "rankLevel": 4,
-        "mainPropDepotId": 2000,
-        "appendPropDepotId": 961
+        "equipType": "EQUIP_RING",
+        "icon": "UI_RelicIcon_15017_1",
+        "rankLevel": 5,
+        "mainPropDepotId": 5099,
+        "appendPropDepotId": 964
     },
     "23548": {
         "nameTextMapHash": 1408232572,

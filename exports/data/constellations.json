@@ -2902,5 +2902,29 @@
     "1326": {
         "nameTextMapHash": 3044278545,
         "icon": "UI_Talent_S_Prune_04"
+    },
+    "1331": {
+        "nameTextMapHash": 4000799185,
+        "icon": "UI_Talent_S_MarionetteNew_01"
+    },
+    "1332": {
+        "nameTextMapHash": 3267984609,
+        "icon": "UI_Talent_S_MarionetteNew_02"
+    },
+    "1333": {
+        "nameTextMapHash": 3416534089,
+        "icon": "UI_Talent_U_MarionetteNew_01"
+    },
+    "1334": {
+        "nameTextMapHash": 2203178313,
+        "icon": "UI_Talent_S_MarionetteNew_03"
+    },
+    "1335": {
+        "nameTextMapHash": 14480385,
+        "icon": "UI_Talent_U_MarionetteNew_02"
+    },
+    "1336": {
+        "nameTextMapHash": 358232249,
+        "icon": "UI_Talent_S_MarionetteNew_04"
     }
 }

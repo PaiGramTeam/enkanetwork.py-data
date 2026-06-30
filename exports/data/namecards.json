@@ -2778,5 +2778,35 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210284": {
+        "nameTextMapHash": 1595165036,
+        "icon": "UI_NameCardIcon_MarionetteNew",
+        "picPath": [
+            "UI_NameCardPic_MarionetteNew_Alpha",
+            "UI_NameCardPic_MarionetteNew_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210285": {
+        "nameTextMapHash": 275801356,
+        "icon": "UI_NameCardIcon_Moon",
+        "picPath": [
+            "UI_NameCardPic_Moon_Alpha",
+            "UI_NameCardPic_Moon_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210286": {
+        "nameTextMapHash": 1404246100,
+        "icon": "UI_NameCardIcon_Bp51",
+        "picPath": [
+            "UI_NameCardPic_Bp51_Alpha",
+            "UI_NameCardPic_Bp51_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

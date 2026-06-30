@@ -1474,6 +1474,11 @@
         "skillIcon": "Skill_E_Cyno_01",
         "proudSkillGroupId": 7139
     },
+    "10716": {
+        "nameTextMapHash": 1300452597,
+        "skillIcon": "Skill_S_Cyno_02",
+        "proudSkillGroupId": 0
+    },
     "10721": {
         "nameTextMapHash": 2594920749,
         "skillIcon": "Skill_A_03",
@@ -2884,6 +2889,31 @@
         "skillIcon": "Skill_E_Prune_01",
         "proudSkillGroupId": 13239
     },
+    "11331": {
+        "nameTextMapHash": 2010262597,
+        "skillIcon": "Skill_A_04",
+        "proudSkillGroupId": 13331
+    },
+    "11332": {
+        "nameTextMapHash": 3027606573,
+        "skillIcon": "Skill_S_MarionetteNew_01",
+        "proudSkillGroupId": 13332
+    },
+    "11333": {
+        "nameTextMapHash": 3157520613,
+        "skillIcon": "Skill_S_MarionetteNew_02",
+        "proudSkillGroupId": 0
+    },
+    "11334": {
+        "nameTextMapHash": 3238201413,
+        "skillIcon": "Skill_S_MarionetteNew_03",
+        "proudSkillGroupId": 0
+    },
+    "11335": {
+        "nameTextMapHash": 2242975933,
+        "skillIcon": "Skill_E_MarionetteNew_01",
+        "proudSkillGroupId": 13339
+    },
     "30000": {
         "nameTextMapHash": 3235714085,
         "skillIcon": "Skill_A_Catalyst_MD",
@@ -3954,6 +3984,66 @@
         "skillIcon": "Btn_TradeShow_Td_Bomb",
         "proudSkillGroupId": 0
     },
+    "20385": {
+        "nameTextMapHash": 1910747573,
+        "skillIcon": "Skill_Diving_Absorb",
+        "proudSkillGroupId": 0
+    },
+    "20386": {
+        "nameTextMapHash": 3590954149,
+        "skillIcon": "Skill_Diving_Slash",
+        "proudSkillGroupId": 0
+    },
+    "20388": {
+        "nameTextMapHash": 2265417045,
+        "skillIcon": "Skill_Diving_Shield",
+        "proudSkillGroupId": 0
+    },
+    "20389": {
+        "nameTextMapHash": 327283949,
+        "skillIcon": "Skill_Diving_Jellyfish",
+        "proudSkillGroupId": 0
+    },
+    "20390": {
+        "nameTextMapHash": 2181369277,
+        "skillIcon": "Skill_Diving_Jellyfish_Trigger",
+        "proudSkillGroupId": 0
+    },
+    "20391": {
+        "nameTextMapHash": 2339181853,
+        "skillIcon": "Skill_Diving_Echo",
+        "proudSkillGroupId": 0
+    },
+    "20392": {
+        "nameTextMapHash": 2005167109,
+        "skillIcon": "Skill_Diving_Octopus",
+        "proudSkillGroupId": 0
+    },
+    "20394": {
+        "nameTextMapHash": 36455909,
+        "skillIcon": "Btn_6_5_Danmaku_Switch",
+        "proudSkillGroupId": 0
+    },
+    "20395": {
+        "nameTextMapHash": 3012924589,
+        "skillIcon": "Skill_PoetryFestival_PitchPot_Icon01",
+        "proudSkillGroupId": 0
+    },
+    "20396": {
+        "nameTextMapHash": 4058892645,
+        "skillIcon": "Btn_FishingJoy_CatchFish_04",
+        "proudSkillGroupId": 0
+    },
+    "20599": {
+        "nameTextMapHash": 165090613,
+        "skillIcon": "UI_Icon_OneShot_Positioning_Canceled",
+        "proudSkillGroupId": 0
+    },
+    "20600": {
+        "nameTextMapHash": 499701157,
+        "skillIcon": "UI_Icon_OneShot_Positioning_Canceled",
+        "proudSkillGroupId": 0
+    },
     "20601": {
         "nameTextMapHash": 2308638789,
         "skillIcon": "UI_Img_MVM_Skill_Summon",
@@ -3972,6 +4062,31 @@
     "20604": {
         "nameTextMapHash": 3448551893,
         "skillIcon": "Skill_SprintCircle",
+        "proudSkillGroupId": 0
+    },
+    "20605": {
+        "nameTextMapHash": 3983932749,
+        "skillIcon": "UI_Icon_OneShot_Positioning",
+        "proudSkillGroupId": 0
+    },
+    "20606": {
+        "nameTextMapHash": 1055075349,
+        "skillIcon": "UI_Icon_OneShot_Reset",
+        "proudSkillGroupId": 0
+    },
+    "20607": {
+        "nameTextMapHash": 2672809045,
+        "skillIcon": "UI_Icon_OneShot_Crosshair",
+        "proudSkillGroupId": 0
+    },
+    "20608": {
+        "nameTextMapHash": 4052885813,
+        "skillIcon": "UI_Icon_OneShot_Bullet",
+        "proudSkillGroupId": 0
+    },
+    "20609": {
+        "nameTextMapHash": 3286771181,
+        "skillIcon": "UI_Icon_OneShot_Crosshair_Canceled",
         "proudSkillGroupId": 0
     },
     "20610": {
@@ -4037,6 +4152,26 @@
     "20624": {
         "nameTextMapHash": 1348185477,
         "skillIcon": "UI_Img_MVM_Skill_Summon",
+        "proudSkillGroupId": 0
+    },
+    "20627": {
+        "nameTextMapHash": 1506553957,
+        "skillIcon": "Skill_S_GravityBomb_01",
+        "proudSkillGroupId": 0
+    },
+    "20628": {
+        "nameTextMapHash": 3914379501,
+        "skillIcon": "Skill_S_GravityBomb_02",
+        "proudSkillGroupId": 0
+    },
+    "20629": {
+        "nameTextMapHash": 2471552325,
+        "skillIcon": "Skill_S_GravityDash",
+        "proudSkillGroupId": 0
+    },
+    "20630": {
+        "nameTextMapHash": 3137848477,
+        "skillIcon": "Skill_E_Flyout_HD",
         "proudSkillGroupId": 0
     },
     "20631": {
@@ -4114,9 +4249,49 @@
         "skillIcon": "Btn_TradeShow_Td_Bomb",
         "proudSkillGroupId": 0
     },
+    "20654": {
+        "nameTextMapHash": 654333413,
+        "skillIcon": "Skill_S_GravityBomb_01",
+        "proudSkillGroupId": 0
+    },
+    "20655": {
+        "nameTextMapHash": 2208645181,
+        "skillIcon": "Skill_S_GravityBomb_02",
+        "proudSkillGroupId": 0
+    },
+    "20656": {
+        "nameTextMapHash": 2617791997,
+        "skillIcon": "Skill_S_GravityDash",
+        "proudSkillGroupId": 0
+    },
+    "20657": {
+        "nameTextMapHash": 1759974573,
+        "skillIcon": "Skill_E_Flyout_HD",
+        "proudSkillGroupId": 0
+    },
+    "20658": {
+        "nameTextMapHash": 2940385781,
+        "skillIcon": "Skill_S_GravityDash",
+        "proudSkillGroupId": 0
+    },
+    "20659": {
+        "nameTextMapHash": 3712366613,
+        "skillIcon": "Skill_S_GravityDash",
+        "proudSkillGroupId": 0
+    },
     "20660": {
         "nameTextMapHash": 2354361541,
         "skillIcon": "Btn_Fishing_Exit",
+        "proudSkillGroupId": 0
+    },
+    "20661": {
+        "nameTextMapHash": 4047430909,
+        "skillIcon": "Skill_E_LunarisDropDown",
+        "proudSkillGroupId": 0
+    },
+    "20662": {
+        "nameTextMapHash": 559676597,
+        "skillIcon": "Skill_E_LunarisDropDown",
         "proudSkillGroupId": 0
     },
     "20663": {
@@ -4142,6 +4317,21 @@
     "20671": {
         "nameTextMapHash": 3365693445,
         "skillIcon": "Skill_Butterfly_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
+    "20676": {
+        "nameTextMapHash": 1465531893,
+        "skillIcon": "Skill_E_Flyout_HD",
+        "proudSkillGroupId": 0
+    },
+    "20677": {
+        "nameTextMapHash": 295502053,
+        "skillIcon": "Skill_WaterBullet_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
+    "20683": {
+        "nameTextMapHash": 991574221,
+        "skillIcon": "Btn_Aquarium_Luancher_Interrupt",
         "proudSkillGroupId": 0
     },
     "10384": {
@@ -4902,6 +5092,11 @@
     "5132010": {
         "nameTextMapHash": 4059668533,
         "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5133010": {
+        "nameTextMapHash": 2355116093,
+        "skillIcon": "Skill_A_04",
         "proudSkillGroupId": 0
     }
 }
