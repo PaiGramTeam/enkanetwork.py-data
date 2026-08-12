@@ -1222,5 +1222,39 @@
         "TH": "Disenchantment in Deep Shadow",
         "TR": "Derin Gölgelerde Uyanış",
         "VI": "Ảo Tưởng Vụn Vỡ Trong Bóng Tối"
+    },
+    "3710268723": {
+        "CHS": "血红之证",
+        "CHT": "血紅之證",
+        "DE": "Blutroter Beweis",
+        "EN": "Scarlet Proof",
+        "ES": "Testimonio Escarlata",
+        "FR": "Preuve écarlate",
+        "ID": "Scarlet Proof",
+        "IT": "Prova scarlatta",
+        "JP": "紅血の証",
+        "KR": "핏빛 증표",
+        "PT": "Prova Escarlate",
+        "RU": "Багряное доказательство",
+        "TH": "Scarlet Proof",
+        "TR": "Kızıl Kanıt",
+        "VI": "Bằng Chứng Máu Đỏ"
+    },
+    "1035953267": {
+        "CHS": "炉火融炼之心",
+        "CHT": "爐火融煉之心",
+        "DE": "Im Feuer geschmolzenes Herz",
+        "EN": "Heart of the Furnace",
+        "ES": "Corazón Forjado",
+        "FR": "Cœur de la fournaise",
+        "ID": "Heart of the Furnace",
+        "IT": "Cuore della fornace",
+        "JP": "炉炎溶錬の心",
+        "KR": "용광로가 빚은 심장",
+        "PT": "Coração Forjado",
+        "RU": "Сердце горна",
+        "TH": "Heart of the Furnace",
+        "TR": "Ocağın Kalbi",
+        "VI": "Trái Tim Lửa Nung"
     }
 }

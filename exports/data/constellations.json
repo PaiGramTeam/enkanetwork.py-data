@@ -95,6 +95,30 @@
         "nameTextMapHash": 3558611121,
         "icon": "UI_Talent_S_PlayerWind_04"
     },
+    "81": {
+        "nameTextMapHash": 4220994961,
+        "icon": "UI_Talent_S_PlayerIce_01"
+    },
+    "82": {
+        "nameTextMapHash": 3513953745,
+        "icon": "UI_Talent_S_PlayerIce_02"
+    },
+    "83": {
+        "nameTextMapHash": 3846078777,
+        "icon": "UI_Talent_U_PlayerIce_01"
+    },
+    "84": {
+        "nameTextMapHash": 3170256121,
+        "icon": "UI_Talent_S_PlayerIce_03"
+    },
+    "85": {
+        "nameTextMapHash": 3755036953,
+        "icon": "UI_Talent_U_PlayerIce_02"
+    },
+    "86": {
+        "nameTextMapHash": 3799187505,
+        "icon": "UI_Talent_S_PlayerIce_04"
+    },
     "91": {
         "nameTextMapHash": 3120087313,
         "icon": "UI_Talent_S_PlayerRock_01"
@@ -2926,5 +2950,53 @@
     "1336": {
         "nameTextMapHash": 358232249,
         "icon": "UI_Talent_S_MarionetteNew_04"
+    },
+    "1481": {
+        "nameTextMapHash": 183126473,
+        "icon": "UI_Talent_S_Alyosha_01"
+    },
+    "1482": {
+        "nameTextMapHash": 303399113,
+        "icon": "UI_Talent_S_Alyosha_02"
+    },
+    "1483": {
+        "nameTextMapHash": 2665924929,
+        "icon": "UI_Talent_U_Alyosha_01"
+    },
+    "1484": {
+        "nameTextMapHash": 4078056681,
+        "icon": "UI_Talent_S_Alyosha_03"
+    },
+    "1485": {
+        "nameTextMapHash": 1453326353,
+        "icon": "UI_Talent_U_Alyosha_02"
+    },
+    "1486": {
+        "nameTextMapHash": 4069403881,
+        "icon": "UI_Talent_S_Alyosha_04"
+    },
+    "1501": {
+        "nameTextMapHash": 506551577,
+        "icon": "UI_Talent_S_Odette_01"
+    },
+    "1502": {
+        "nameTextMapHash": 3180445905,
+        "icon": "UI_Talent_S_Odette_02"
+    },
+    "1503": {
+        "nameTextMapHash": 645006425,
+        "icon": "UI_Talent_U_Odette_01"
+    },
+    "1504": {
+        "nameTextMapHash": 3514552353,
+        "icon": "UI_Talent_S_Odette_03"
+    },
+    "1505": {
+        "nameTextMapHash": 3101692001,
+        "icon": "UI_Talent_U_Odette_02"
+    },
+    "1506": {
+        "nameTextMapHash": 4200065385,
+        "icon": "UI_Talent_S_Odette_04"
     }
 }

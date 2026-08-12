@@ -116,11 +116,20 @@
         "iconName": "UI_AvatarIcon_PlayerBoy",
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
-        "costElemType": "Wind",
+        "costElemType": "Ice",
         "skills": [
-            100544
+            100544,
+            10127,
+            10128
         ],
-        "talents": []
+        "talents": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+        ]
     },
     "10000005-506": {
         "nameTextMapHash": 1533656306,
@@ -287,11 +296,20 @@
         "iconName": "UI_AvatarIcon_PlayerGirl",
         "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
         "qualityType": "QUALITY_ORANGE",
-        "costElemType": "Wind",
+        "costElemType": "Ice",
         "skills": [
-            100554
+            100554,
+            10127,
+            10128
         ],
-        "talents": []
+        "talents": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+        ]
     },
     "10000007-706": {
         "nameTextMapHash": 3816664530,
@@ -2847,6 +2865,86 @@
             1336
         ]
     },
+    "10000134-501": {
+        "nameTextMapHash": 1320822938,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [
+            100540
+        ],
+        "talents": []
+    },
+    "10000134": {
+        "nameTextMapHash": 1320822938,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
+    },
+    "10000135-701": {
+        "nameTextMapHash": 2503561282,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [
+            100550
+        ],
+        "talents": []
+    },
+    "10000135": {
+        "nameTextMapHash": 2503561282,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
+    },
+    "10000148": {
+        "nameTextMapHash": 2727450010,
+        "iconName": "UI_AvatarIcon_Alyosha",
+        "sideIconName": "UI_AvatarIcon_Side_Alyosha",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            11481,
+            11482,
+            11485
+        ],
+        "talents": [
+            1481,
+            1482,
+            1483,
+            1484,
+            1485,
+            1486
+        ]
+    },
+    "10000150": {
+        "nameTextMapHash": 2417850,
+        "iconName": "UI_AvatarIcon_Odette",
+        "sideIconName": "UI_AvatarIcon_Side_Odette",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11501,
+            11502,
+            11505
+        ],
+        "talents": [
+            1501,
+            1502,
+            1503,
+            1504,
+            1505,
+            1506
+        ]
+    },
     "10000901": {
         "nameTextMapHash": 3293134138,
         "iconName": "UI_AvatarIcon_Mavuika",
@@ -2926,23 +3024,5 @@
             235,
             236
         ]
-    },
-    "10000998": {
-        "nameTextMapHash": 88676646,
-        "iconName": "UI_AvatarIcon_PlayerBoy",
-        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
-        "qualityType": "QUALITY_ORANGE",
-        "costElemType": "",
-        "skills": [],
-        "talents": []
-    },
-    "10000999": {
-        "nameTextMapHash": 3434459630,
-        "iconName": "UI_AvatarIcon_PlayerGirl",
-        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
-        "qualityType": "QUALITY_ORANGE",
-        "costElemType": "",
-        "skills": [],
-        "talents": []
     }
 }

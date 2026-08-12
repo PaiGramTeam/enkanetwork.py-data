@@ -2808,5 +2808,85 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210287": {
+        "nameTextMapHash": 504799708,
+        "icon": "UI_NameCardIcon_Odette",
+        "picPath": [
+            "UI_NameCardPic_Odette_Alpha",
+            "UI_NameCardPic_Odette_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210288": {
+        "nameTextMapHash": 3494501876,
+        "icon": "UI_NameCardIcon_Alyosha",
+        "picPath": [
+            "UI_NameCardPic_Alyosha_Alpha",
+            "UI_NameCardPic_Alyosha_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210289": {
+        "nameTextMapHash": 3708123236,
+        "icon": "UI_NameCardIcon_Ysxf7",
+        "picPath": [
+            "UI_NameCardPic_Ysxf7_Alpha",
+            "UI_NameCardPic_Ysxf7_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210290": {
+        "nameTextMapHash": 1029530724,
+        "icon": "UI_NameCardIcon_Snezhnaya1",
+        "picPath": [
+            "UI_NameCardPic_Snezhnaya1_Alpha",
+            "UI_NameCardPic_Snezhnaya1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210291": {
+        "nameTextMapHash": 3073298908,
+        "icon": "UI_NameCardIcon_Csxy7",
+        "picPath": [
+            "UI_NameCardPic_Csxy7_Alpha",
+            "UI_NameCardPic_Csxy7_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210292": {
+        "nameTextMapHash": 913568924,
+        "icon": "UI_NameCardIcon_Tps1",
+        "picPath": [
+            "UI_NameCardPic_Tps1_Alpha",
+            "UI_NameCardPic_Tps1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210293": {
+        "nameTextMapHash": 820549692,
+        "icon": "UI_NameCardIcon_Shadow",
+        "picPath": [
+            "UI_NameCardPic_Shadow_Alpha",
+            "UI_NameCardPic_Shadow_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210294": {
+        "nameTextMapHash": 2112248932,
+        "icon": "UI_NameCardIcon_Bp52",
+        "picPath": [
+            "UI_NameCardPic_Bp52_Alpha",
+            "UI_NameCardPic_Bp52_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

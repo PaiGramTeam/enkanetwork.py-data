@@ -245,6 +245,18 @@
         "awakenIcon": "UI_EquipIcon_Sword_Miekka_Awaken",
         "rankLevel": 4
     },
+    "11435": {
+        "nameTextMapHash": 924032139,
+        "icon": "UI_EquipIcon_Sword_SerpentTooth",
+        "awakenIcon": "UI_EquipIcon_Sword_SerpentTooth_Awaken",
+        "rankLevel": 4
+    },
+    "11436": {
+        "nameTextMapHash": 210291963,
+        "icon": "UI_EquipIcon_Sword_GlintstoneSword",
+        "awakenIcon": "UI_EquipIcon_Sword_GlintstoneSword_Awaken",
+        "rankLevel": 4
+    },
     "11501": {
         "nameTextMapHash": 902264035,
         "icon": "UI_EquipIcon_Sword_Falcon",
@@ -357,6 +369,18 @@
         "nameTextMapHash": 1573691659,
         "icon": "UI_EquipIcon_Sword_SilverwareSaw",
         "awakenIcon": "UI_EquipIcon_Sword_SilverwareSaw_Awaken",
+        "rankLevel": 5
+    },
+    "11520": {
+        "nameTextMapHash": 4113623219,
+        "icon": "UI_EquipIcon_Sword_Swanlake",
+        "awakenIcon": "UI_EquipIcon_Sword_Swanlake_Awaken",
+        "rankLevel": 5
+    },
+    "11521": {
+        "nameTextMapHash": 1896898739,
+        "icon": "UI_EquipIcon_Sword_WeaponQuestSnezhnaya",
+        "awakenIcon": "UI_EquipIcon_Sword_WeaponQuestSnezhnaya",
         "rankLevel": 5
     },
     "12101": {
@@ -555,6 +579,18 @@
         "nameTextMapHash": 3225522227,
         "icon": "UI_EquipIcon_Claymore_Ilmarinen",
         "awakenIcon": "UI_EquipIcon_Claymore_Ilmarinen_Awaken",
+        "rankLevel": 4
+    },
+    "12435": {
+        "nameTextMapHash": 2136397971,
+        "icon": "UI_EquipIcon_Claymore_EscapeWheel",
+        "awakenIcon": "UI_EquipIcon_Claymore_EscapeWheel_Awaken",
+        "rankLevel": 4
+    },
+    "12436": {
+        "nameTextMapHash": 3259124203,
+        "icon": "UI_EquipIcon_Claymore_GlintstoneClaymore",
+        "awakenIcon": "UI_EquipIcon_Claymore_GlintstoneClaymore_Awaken",
         "rankLevel": 4
     },
     "12501": {
@@ -819,6 +855,18 @@
         "nameTextMapHash": 980370707,
         "icon": "UI_EquipIcon_Pole_Krivule",
         "awakenIcon": "UI_EquipIcon_Pole_Krivule_Awaken",
+        "rankLevel": 4
+    },
+    "13435": {
+        "nameTextMapHash": 3884163131,
+        "icon": "UI_EquipIcon_Pole_FaesCrystalle",
+        "awakenIcon": "UI_EquipIcon_Pole_FaesCrystalle_Awaken",
+        "rankLevel": 4
+    },
+    "13436": {
+        "nameTextMapHash": 3271318547,
+        "icon": "UI_EquipIcon_Pole_GlintstonePolearm",
+        "awakenIcon": "UI_EquipIcon_Pole_GlintstonePolearm_Awaken",
         "rankLevel": 4
     },
     "13501": {
@@ -1113,6 +1161,18 @@
         "nameTextMapHash": 3497154619,
         "icon": "UI_EquipIcon_Catalyst_Ziedas",
         "awakenIcon": "UI_EquipIcon_Catalyst_Ziedas_Awaken",
+        "rankLevel": 4
+    },
+    "14435": {
+        "nameTextMapHash": 3881404531,
+        "icon": "UI_EquipIcon_Catalyst_SandMemoria",
+        "awakenIcon": "UI_EquipIcon_Catalyst_SandMemoria_Awaken",
+        "rankLevel": 4
+    },
+    "14436": {
+        "nameTextMapHash": 3594490091,
+        "icon": "UI_EquipIcon_Catalyst_GlintstoneCatalyst",
+        "awakenIcon": "UI_EquipIcon_Catalyst_GlintstoneCatalyst_Awaken",
         "rankLevel": 4
     },
     "14501": {
@@ -1457,6 +1517,18 @@
         "awakenIcon": "UI_EquipIcon_Bow_ElegguaBow_Awaken",
         "rankLevel": 4
     },
+    "15435": {
+        "nameTextMapHash": 3783773579,
+        "icon": "UI_EquipIcon_Bow_ShatteredMirror",
+        "awakenIcon": "UI_EquipIcon_Bow_ShatteredMirror_Awaken",
+        "rankLevel": 4
+    },
+    "15436": {
+        "nameTextMapHash": 3730903067,
+        "icon": "UI_EquipIcon_Bow_GlintstoneBow",
+        "awakenIcon": "UI_EquipIcon_Bow_GlintstoneBow_Awaken",
+        "rankLevel": 4
+    },
     "15501": {
         "nameTextMapHash": 3933622347,
         "icon": "UI_EquipIcon_Bow_Dvalin",
@@ -1591,6 +1663,24 @@
     },
     "10009": {
         "nameTextMapHash": 123009179,
+        "icon": "UI_EquipIcon_Sword_Template",
+        "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
+        "rankLevel": 1
+    },
+    "10010": {
+        "nameTextMapHash": 3931154627,
+        "icon": "UI_EquipIcon_Sword_Template",
+        "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
+        "rankLevel": 1
+    },
+    "10011": {
+        "nameTextMapHash": 4289225171,
+        "icon": "UI_EquipIcon_Sword_Template",
+        "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
+        "rankLevel": 1
+    },
+    "10012": {
+        "nameTextMapHash": 2244919379,
         "icon": "UI_EquipIcon_Sword_Template",
         "awakenIcon": "UI_EquipIcon_Sword_Template_Awaken",
         "rankLevel": 1
