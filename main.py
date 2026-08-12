@@ -144,7 +144,7 @@ async def main():
     # Load skills data
     for skillData in DATA["AvatarSkillExcelConfigData"]:
         LOGGER.debug(f"Getting skill data {skillData['id']}...")
-        if skillData["skillIcon"] == "":
+        if skillData.get("skillIcon", "") == "":
             LOGGER.debug(f"Skill {skillData['id']} has no icon... Skipping...")
             continue
 
@@ -156,7 +156,7 @@ async def main():
             "skillIcon": skillData["skillIcon"],
             "forceCanDoSkill": skillData.get("forceCanDoSkill", None),
             "costElemType": skillData.get("costElemType", ""),
-            "proudSkillGroupId": skillData.get("proudSkillGroupId","")
+            "proudSkillGroupId": skillData.get("proudSkillGroupId", 0)
         } 
 
     # Load constellations
@@ -193,6 +193,10 @@ async def main():
         LOGGER.debug(f"Getting artifact set {artifactSet['affixId']}...")
         if not "artifact_sets" in EXPORT_DATA:
             EXPORT_DATA["artifact_sets"] = {}
+
+        if "openConfig" not in artifactSet:
+            LOGGER.debug(f"artifact set {artifactSet['affixId']} has no openConfig... Skipping...")
+            continue
 
         if  artifactSet["openConfig"].startswith("Relic_") or \
             artifactSet["openConfig"].startswith("Relci_"):
@@ -314,7 +318,8 @@ async def main():
         LOGGER.debug(f"Processing {avatar['id']}...")
         if avatar["skillDepotId"] == 101 or \
             avatar["iconName"].endswith("_Kate") or \
-            str(avatar['id'])[:2] == "11": # 11 is test character mode 
+            str(avatar['id']) in ["10000998", "10000999"] or \
+            str(avatar['id'])[:2] == "11": # 11 is test character mode
             LOGGER.debug(f"Skipping {avatar['id']}...")
             continue
 
