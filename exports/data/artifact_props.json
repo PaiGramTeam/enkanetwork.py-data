@@ -1187,7 +1187,7 @@
     "999002": {
         "propType": "FIGHT_PROP_CRITICAL",
         "propDigit": "PERCENT",
-        "propValue": 100
+        "propValue": 100.0
     },
     "999003": {
         "propType": "FIGHT_PROP_ATTACK",
@@ -1492,7 +1492,7 @@
     "967001": {
         "propType": "FIGHT_PROP_CRITICAL",
         "propDigit": "PERCENT",
-        "propValue": 100
+        "propValue": 100.0
     },
     "966001": {
         "propType": "FIGHT_PROP_ELEMENT_MASTERY",

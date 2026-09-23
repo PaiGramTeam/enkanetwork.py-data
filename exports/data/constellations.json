@@ -2951,6 +2951,30 @@
         "nameTextMapHash": 358232249,
         "icon": "UI_Talent_S_MarionetteNew_04"
     },
+    "1431": {
+        "nameTextMapHash": 2587388017,
+        "icon": "UI_Talent_S_Vesna_01"
+    },
+    "1432": {
+        "nameTextMapHash": 3603567657,
+        "icon": "UI_Talent_S_Vesna_02"
+    },
+    "1433": {
+        "nameTextMapHash": 3436710305,
+        "icon": "UI_Talent_U_Vesna_01"
+    },
+    "1434": {
+        "nameTextMapHash": 3785084377,
+        "icon": "UI_Talent_S_Vesna_03"
+    },
+    "1435": {
+        "nameTextMapHash": 1709698273,
+        "icon": "UI_Talent_U_Vesna_02"
+    },
+    "1436": {
+        "nameTextMapHash": 3402668417,
+        "icon": "UI_Talent_S_Vesna_04"
+    },
     "1481": {
         "nameTextMapHash": 183126473,
         "icon": "UI_Talent_S_Alyosha_01"
@@ -2998,5 +3022,29 @@
     "1506": {
         "nameTextMapHash": 4200065385,
         "icon": "UI_Talent_S_Odette_04"
+    },
+    "1401": {
+        "nameTextMapHash": 3404622153,
+        "icon": "UI_Talent_S_Vodyanitsa_01"
+    },
+    "1402": {
+        "nameTextMapHash": 3333717161,
+        "icon": "UI_Talent_S_Vodyanitsa_02"
+    },
+    "1403": {
+        "nameTextMapHash": 2721352921,
+        "icon": "UI_Talent_U_Vodyanitsa_01"
+    },
+    "1404": {
+        "nameTextMapHash": 3390338073,
+        "icon": "UI_Talent_S_Vodyanitsa_03"
+    },
+    "1405": {
+        "nameTextMapHash": 3829794225,
+        "icon": "UI_Talent_U_Vodyanitsa_02"
+    },
+    "1406": {
+        "nameTextMapHash": 3032737993,
+        "icon": "UI_Talent_S_Vodyanitsa_04"
     }
 }

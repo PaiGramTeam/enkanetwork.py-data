@@ -2888,5 +2888,45 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210295": {
+        "nameTextMapHash": 682297812,
+        "icon": "UI_NameCardIcon_Vesna",
+        "picPath": [
+            "UI_NameCardPic_Vesna_Alpha",
+            "UI_NameCardPic_Vesna_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210296": {
+        "nameTextMapHash": 3240061196,
+        "icon": "UI_NameCardIcon_Vodyanitsa",
+        "picPath": [
+            "UI_NameCardPic_Vodyanitsa_Alpha",
+            "UI_NameCardPic_Vodyanitsa_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210297": {
+        "nameTextMapHash": 2806109644,
+        "icon": "UI_NameCardIcon_Queen1",
+        "picPath": [
+            "UI_NameCardPic_Queen1_Alpha",
+            "UI_NameCardPic_Queen1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210298": {
+        "nameTextMapHash": 1359504580,
+        "icon": "UI_NameCardIcon_Bp53",
+        "picPath": [
+            "UI_NameCardPic_Bp53_Alpha",
+            "UI_NameCardPic_Bp53_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }

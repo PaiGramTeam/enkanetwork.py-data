@@ -257,6 +257,18 @@
         "awakenIcon": "UI_EquipIcon_Sword_GlintstoneSword_Awaken",
         "rankLevel": 4
     },
+    "11437": {
+        "nameTextMapHash": 1359826123,
+        "icon": "UI_EquipIcon_Sword_SpikedStake",
+        "awakenIcon": "UI_EquipIcon_Sword_SpikedStake_Awaken",
+        "rankLevel": 4
+    },
+    "11438": {
+        "nameTextMapHash": 2153081171,
+        "icon": "UI_EquipIcon_Sword_Fajian",
+        "awakenIcon": "UI_EquipIcon_Sword_Fajian_Awaken",
+        "rankLevel": 4
+    },
     "11501": {
         "nameTextMapHash": 902264035,
         "icon": "UI_EquipIcon_Sword_Falcon",
@@ -381,6 +393,12 @@
         "nameTextMapHash": 1896898739,
         "icon": "UI_EquipIcon_Sword_WeaponQuestSnezhnaya",
         "awakenIcon": "UI_EquipIcon_Sword_WeaponQuestSnezhnaya",
+        "rankLevel": 5
+    },
+    "11522": {
+        "nameTextMapHash": 4086029419,
+        "icon": "UI_EquipIcon_Sword_Samosvist",
+        "awakenIcon": "UI_EquipIcon_Sword_Samosvist_Awaken",
         "rankLevel": 5
     },
     "12101": {
@@ -1175,6 +1193,12 @@
         "awakenIcon": "UI_EquipIcon_Catalyst_GlintstoneCatalyst_Awaken",
         "rankLevel": 4
     },
+    "14437": {
+        "nameTextMapHash": 2998374891,
+        "icon": "UI_EquipIcon_Catalyst_FrostScepter",
+        "awakenIcon": "UI_EquipIcon_Catalyst_FrostScepter_Awaken",
+        "rankLevel": 4
+    },
     "14501": {
         "nameTextMapHash": 807607555,
         "icon": "UI_EquipIcon_Catalyst_Dvalin",
@@ -1299,6 +1323,12 @@
         "nameTextMapHash": 1871665507,
         "icon": "UI_EquipIcon_Catalyst_FairyGarden",
         "awakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+        "rankLevel": 5
+    },
+    "14524": {
+        "nameTextMapHash": 2677592067,
+        "icon": "UI_EquipIcon_Catalyst_Bludnye",
+        "awakenIcon": "UI_EquipIcon_Catalyst_Bludnye_Awaken",
         "rankLevel": 5
     },
     "15101": {
@@ -1527,6 +1557,12 @@
         "nameTextMapHash": 3730903067,
         "icon": "UI_EquipIcon_Bow_GlintstoneBow",
         "awakenIcon": "UI_EquipIcon_Bow_GlintstoneBow_Awaken",
+        "rankLevel": 4
+    },
+    "15437": {
+        "nameTextMapHash": 3763051755,
+        "icon": "UI_EquipIcon_Bow_Windtalker",
+        "awakenIcon": "UI_EquipIcon_Bow_Windtalker_Awaken",
         "rankLevel": 4
     },
     "15501": {

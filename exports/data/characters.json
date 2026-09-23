@@ -2905,6 +2905,48 @@
         "skills": [],
         "talents": []
     },
+    "10000140": {
+        "nameTextMapHash": 1692132714,
+        "iconName": "UI_AvatarIcon_Vodyanitsa",
+        "sideIconName": "UI_AvatarIcon_Side_Vodyanitsa",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            11401,
+            11402,
+            11405
+        ],
+        "talents": [
+            1401,
+            1402,
+            1403,
+            1404,
+            1405,
+            1406
+        ]
+    },
+    "10000143": {
+        "nameTextMapHash": 3992521194,
+        "iconName": "UI_AvatarIcon_Vesna",
+        "sideIconName": "UI_AvatarIcon_Side_Vesna",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11431,
+            11432,
+            114310,
+            114311,
+            11435
+        ],
+        "talents": [
+            1431,
+            1432,
+            1433,
+            1434,
+            1435,
+            1436
+        ]
+    },
     "10000148": {
         "nameTextMapHash": 2727450010,
         "iconName": "UI_AvatarIcon_Alyosha",

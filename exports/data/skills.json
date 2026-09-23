@@ -2924,6 +2924,91 @@
         "skillIcon": "Skill_E_MarionetteNew_01",
         "proudSkillGroupId": 13339
     },
+    "11401": {
+        "nameTextMapHash": 2999359621,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 14031
+    },
+    "11402": {
+        "nameTextMapHash": 2856817069,
+        "skillIcon": "Skill_S_Vodyanitsa_01",
+        "proudSkillGroupId": 14032
+    },
+    "11403": {
+        "nameTextMapHash": 1253098733,
+        "skillIcon": "Skill_S_Vodyanitsa_02",
+        "proudSkillGroupId": 0
+    },
+    "11405": {
+        "nameTextMapHash": 444498197,
+        "skillIcon": "Skill_E_Vodyanitsa_01",
+        "proudSkillGroupId": 14039
+    },
+    "11431": {
+        "nameTextMapHash": 2752424357,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 14331
+    },
+    "11432": {
+        "nameTextMapHash": 3302872509,
+        "skillIcon": "Skill_S_Vesna_01",
+        "proudSkillGroupId": 14332
+    },
+    "11433": {
+        "nameTextMapHash": 1842083133,
+        "skillIcon": "Skill_S_Vesna_02",
+        "proudSkillGroupId": 0
+    },
+    "11434": {
+        "nameTextMapHash": 1566447909,
+        "skillIcon": "Skill_S_Vesna_03",
+        "proudSkillGroupId": 0
+    },
+    "11435": {
+        "nameTextMapHash": 3611805853,
+        "skillIcon": "Skill_E_Vesna_01",
+        "proudSkillGroupId": 14339
+    },
+    "11436": {
+        "nameTextMapHash": 2470830477,
+        "skillIcon": "Skill_S_Vesna_04",
+        "proudSkillGroupId": 0
+    },
+    "11437": {
+        "nameTextMapHash": 4132219917,
+        "skillIcon": "Skill_S_Vesna_05",
+        "proudSkillGroupId": 0
+    },
+    "11438": {
+        "nameTextMapHash": 1357953109,
+        "skillIcon": "Skill_S_Vesna_06",
+        "proudSkillGroupId": 0
+    },
+    "11439": {
+        "nameTextMapHash": 4043847165,
+        "skillIcon": "Skill_S_Vesna_07",
+        "proudSkillGroupId": 0
+    },
+    "11430": {
+        "nameTextMapHash": 3971080541,
+        "skillIcon": "Skill_S_Vesna_08",
+        "proudSkillGroupId": 0
+    },
+    "114310": {
+        "nameTextMapHash": 4292389925,
+        "skillIcon": "Btn_Sprint",
+        "proudSkillGroupId": 0
+    },
+    "114311": {
+        "nameTextMapHash": 1094389029,
+        "skillIcon": "Btn_Jump",
+        "proudSkillGroupId": 0
+    },
+    "114312": {
+        "nameTextMapHash": 2200631349,
+        "skillIcon": "Skill_S_Vesna_08",
+        "proudSkillGroupId": 0
+    },
     "11481": {
         "nameTextMapHash": 2910839845,
         "skillIcon": "Skill_A_03",
@@ -4524,9 +4609,19 @@
         "skillIcon": "Btn_QTE_Touch",
         "proudSkillGroupId": 0
     },
+    "20687": {
+        "nameTextMapHash": 1312976029,
+        "skillIcon": "Btn_SnowBallFight",
+        "proudSkillGroupId": 0
+    },
     "20688": {
         "nameTextMapHash": 2178408565,
         "skillIcon": "Skill_PlayingCards_Throw_Icon",
+        "proudSkillGroupId": 0
+    },
+    "20690": {
+        "nameTextMapHash": 1969373549,
+        "skillIcon": "Skill_Rabbit_Throw_Icon",
         "proudSkillGroupId": 0
     },
     "20689": {
@@ -5329,6 +5424,16 @@
         "skillIcon": "Skill_A_04",
         "proudSkillGroupId": 0
     },
+    "5140010": {
+        "nameTextMapHash": 1741283701,
+        "skillIcon": "Skill_A_Catalyst_MD",
+        "proudSkillGroupId": 0
+    },
+    "5143010": {
+        "nameTextMapHash": 2140389389,
+        "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
     "5148010": {
         "nameTextMapHash": 1141236917,
         "skillIcon": "Skill_A_03",
@@ -5337,6 +5442,21 @@
     "5150010": {
         "nameTextMapHash": 2373680197,
         "skillIcon": "Skill_A_01",
+        "proudSkillGroupId": 0
+    },
+    "20705": {
+        "nameTextMapHash": 1972143149,
+        "skillIcon": "Skill_S_Mitya_01",
+        "proudSkillGroupId": 0
+    },
+    "20707": {
+        "nameTextMapHash": 1937198381,
+        "skillIcon": "Skill_A_02",
+        "proudSkillGroupId": 0
+    },
+    "20708": {
+        "nameTextMapHash": 3600493613,
+        "skillIcon": "Skill_S_Odette_02",
         "proudSkillGroupId": 0
     }
 }

@@ -730,6 +730,40 @@
         "TR": "Kor Pınarı",
         "VI": "Ngọn Nguồn Dẫn Lửa"
     },
+    "1359826123": {
+        "CHS": "新枝",
+        "CHT": "新枝",
+        "DE": "Neuer Zweig",
+        "EN": "New Bough",
+        "ES": "Nueva Rama",
+        "FR": "Nouvelle branche",
+        "ID": "New Bough",
+        "IT": "Nuovo ramo",
+        "JP": "新たなる枝",
+        "KR": "새순",
+        "PT": "Ramo Novo",
+        "RU": "Новая ветвь",
+        "TH": "New Bough",
+        "TR": "Yeni Dal",
+        "VI": "Cành Mới"
+    },
+    "2153081171": {
+        "CHS": "银釭",
+        "CHT": "銀釭",
+        "DE": "Silberlampe",
+        "EN": "Silver Light",
+        "ES": "Luz Plateada",
+        "FR": "Lumière argentée",
+        "ID": "Silver Light",
+        "IT": "Luce argentea",
+        "JP": "銀灯",
+        "KR": "은강검",
+        "PT": "Lâmpada Prateada",
+        "RU": "Серебряный свет",
+        "TH": "Silver Light",
+        "TR": "Gümüş Işık",
+        "VI": "Ngân Cang"
+    },
     "902264035": {
         "CHS": "风鹰剑",
         "CHT": "風鷹劍",
@@ -1073,7 +1107,7 @@
     "1896898739": {
         "CHS": "星锋剑",
         "CHT": "星鋒劍",
-        "DE": "Sternspitzen-Klinge",
+        "DE": "Exaiphanes-Klinge",
         "EN": "Exaiphanes Blade",
         "ES": "Hoja de Exáifanes",
         "FR": "Lame exaphane",
@@ -1086,6 +1120,23 @@
         "TH": "Exaiphanes Blade",
         "TR": "Exaiphanes Kılıcı",
         "VI": "Thanh Kiếm Exaiphanes"
+    },
+    "4086029419": {
+        "CHS": "蝶变",
+        "CHT": "蝶變",
+        "DE": "Schmetterlingswandel",
+        "EN": "Beyond the Chrysalis",
+        "ES": "Allende la Crisálida",
+        "FR": "Au-delà de la chrysalide",
+        "ID": "Beyond the Chrysalis",
+        "IT": "Oltre la crisalide",
+        "JP": "蝶の羽化",
+        "KR": "나비의 우화",
+        "PT": "Borboleta Transformadora",
+        "RU": "За пределами кокона",
+        "TH": "Beyond the Chrysalis",
+        "TR": "Kozanın Ötesi",
+        "VI": "Cánh Bướm Biến Hóa"
     },
     "2666950755": {
         "CHS": "训练大剑",
@@ -3331,6 +3382,23 @@
         "TR": "Kalbin Yankıları",
         "VI": "Dư Âm Tấm Lòng"
     },
+    "2998374891": {
+        "CHS": "凝雪沉心",
+        "CHT": "凝雪沉心",
+        "DE": "Schweres Herz des Winters",
+        "EN": "Winter's Heavy Heart",
+        "ES": "Corazón del Invierno",
+        "FR": "Le cœur lourd de l'hiver",
+        "ID": "Winter's Heavy Heart",
+        "IT": "Cuore pesante dell'inverno",
+        "JP": "雪に沈む心",
+        "KR": "얼어붙은 심장",
+        "PT": "Coração Congelado",
+        "RU": "Застывшее сердце зимы",
+        "TH": "Winter's Heavy Heart",
+        "TR": "Kışın Ağır Kalbi",
+        "VI": "Trái Tim Ngưng Tuyết"
+    },
     "807607555": {
         "CHS": "天空之卷",
         "CHT": "天空之卷",
@@ -3687,6 +3755,23 @@
         "TH": "Angelos' Heptades",
         "TR": "Meleğin Yedi Fermanı",
         "VI": "Trần Quang Thất Dụ"
+    },
+    "2677592067": {
+        "CHS": "漩流颂歌",
+        "CHT": "漩流頌歌",
+        "DE": "Loblied des Strudels",
+        "EN": "Hymn of the Maelstrom",
+        "ES": "Himno del Vórtice",
+        "FR": "Hymne dans le maelström",
+        "ID": "Hymn of the Maelstrom",
+        "IT": "Inno del gorgo",
+        "JP": "旋流の讃美歌",
+        "KR": "파도의 찬송가",
+        "PT": "Cântico Rodopiante",
+        "RU": "Ода водоворота",
+        "TH": "Hymn of the Maelstrom",
+        "TR": "Girdap İlahisi",
+        "VI": "Thánh Ca Vòng Xoáy"
     },
     "3600623979": {
         "CHS": "猎弓",
@@ -4334,6 +4419,23 @@
         "TR": "Kar ve Ayazın Yemini",
         "VI": "Thệ Ước Sương Tuyết"
     },
+    "3763051755": {
+        "CHS": "柔风游弦",
+        "CHT": "柔風遊弦",
+        "DE": "Lüftchen und Saitenspiel",
+        "EN": "Breezeborne Refrain",
+        "ES": "Estribillo del Viento",
+        "FR": "Refrain dans le vent",
+        "ID": "Breezeborne Refrain",
+        "IT": "Ritornello della brezza",
+        "JP": "風に遊ぶ弦",
+        "KR": "산들바람 활",
+        "PT": "Cordas Suaves",
+        "RU": "Напевы нежного ветра",
+        "TH": "Breezeborne Refrain",
+        "TR": "Rüzgarın Ezgisi",
+        "VI": "Giai Điệu Gió Thoảng"
+    },
     "3933622347": {
         "CHS": "天空之翼",
         "CHT": "天空之翼",
@@ -4363,7 +4465,7 @@
         "JP": "アモスの弓",
         "KR": "아모스의 활",
         "PT": "Arco de Amos",
-        "RU": "Лук Амоса",
+        "RU": "Лук Амос",
         "TH": "Amos' Bow",
         "TR": "Amos'un Yayı",
         "VI": "Cung Amos"
